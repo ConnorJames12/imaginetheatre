@@ -96,9 +96,13 @@ they don't touch your system Python. The `run.sh` script sets this up for you.
 ```bash
 cd "path/to/this/folder"
 chmod +x run.sh        # only needed the first time
+chmod +x run.sh        # only needed the first time
 ./run.sh
 ```
 
+`run.sh` creates the `.venv` on first run, installs the dependencies into it, and runs the
+build. It's safe to run again and again — later runs reuse the existing environment.
+Arguments pass straight through to the script:
 `run.sh` creates the `.venv` on first run, installs the dependencies into it, and runs the
 build. It's safe to run again and again — later runs reuse the existing environment.
 Arguments pass straight through to the script:
@@ -113,6 +117,11 @@ When it finishes you'll have `llms-full.txt` in this folder.
 ### Option B — manual setup
 
 If you'd rather drive it by hand:
+When it finishes you'll have `llms-full.txt` in this folder.
+
+### Option B — manual setup
+
+If you'd rather drive it by hand:
 
 ```bash
 python3 -m venv .venv          # 1. create the virtual environment
@@ -120,8 +129,20 @@ source .venv/bin/activate      # 2. activate it (your prompt shows (.venv))
 pip install -r requirements.txt # 3. install dependencies into the venv
 python3 build_llms_full.py      # 4. run the build
 deactivate                     # 5. leave the venv when you're done
+python3 -m venv .venv          # 1. create the virtual environment
+source .venv/bin/activate      # 2. activate it (your prompt shows (.venv))
+pip install -r requirements.txt # 3. install dependencies into the venv
+python3 build_llms_full.py      # 4. run the build
+deactivate                     # 5. leave the venv when you're done
 ```
 
+> **The important bit:** activate the venv (or call `.venv/bin/python` directly) *before*
+> `pip install` and *before* running the script. Running `pip install` against the system
+> Python is what produces the `error: externally-managed-environment` message on modern
+> macOS/Python — and the reason the original setup couldn't find its dependencies. The
+> virtual environment fixes both.
+
+---
 > **The important bit:** activate the venv (or call `.venv/bin/python` directly) *before*
 > `pip install` and *before* running the script. Running `pip install` against the system
 > Python is what produces the `error: externally-managed-environment` message on modern
@@ -148,6 +169,27 @@ Examples:
 
 ---
 
+## Running it automatically (GitHub Actions)
+
+The repo includes a scheduled workflow at `.github/workflows/build-llms-full.yml` that
+rebuilds the file every night **on GitHub's servers** — your computer doesn't need to be
+on. Each night it checks out the repo, installs the dependencies, runs the script, and
+commits the refreshed `llms-full.txt` back to the repo (skipping the commit on nights when
+nothing changed).
+
+### Turning it on
+
+1. **Push this folder to a GitHub repository** (`git init`, commit, push — or use GitHub
+   Desktop).
+2. **Allow the Action to commit.** In the repo, go to **Settings → Actions → General →
+   Workflow permissions** and select **Read and write permissions**.
+3. **Test it.** Open the **Actions** tab, choose *Build llms-full.txt*, and click **Run
+   workflow** to trigger a build by hand and confirm it works before relying on the
+   schedule.
+
+### Changing the schedule
+
+The timing lives in the `cron:` line of the workflow. It's in **UTC**:
 ## Running it automatically (GitHub Actions)
 
 The repo includes a scheduled workflow at `.github/workflows/build-llms-full.yml` that
