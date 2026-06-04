@@ -32,7 +32,7 @@ from bs4 import BeautifulSoup
 from markdownify import markdownify as html_to_md
 
 DEFAULT_SITE = "https://www.imaginetheatre.co.uk"
-USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://www.imaginetheatre.co.uk/llms.txt)"
+USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://connorjames12.github.io/imagine-theatre/llms-full.txt)"
 TIMEOUT_SECS = 20
 
 # Match the path part of a markdown link target: ](/some/path ...
