@@ -1,0 +1,45 @@
+name: Build llms-full.txt
+
+# Runs the generator on a schedule and commits the refreshed file back to the repo.
+on:
+  schedule:
+    # 03:15 UTC every day. GitHub cron is always UTC; adjust the time as you like.
+    # (Scheduled runs can be delayed a few minutes when GitHub is busy — that's normal.)
+    - cron: "15 3 * * *"
+  # Lets you trigger a build by hand from the Actions tab, handy for testing.
+  workflow_dispatch:
+
+# The job needs write access to push the regenerated file back.
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build llms-full.txt
+        run: python build_llms_full.py --out llms-full.txt
+
+      - name: Commit and push if it changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- llms-full.txt; then
+            echo "No changes in llms-full.txt — nothing to commit."
+          else
+            git add llms-full.txt
+            git commit -m "chore: nightly rebuild of llms-full.txt [skip ci]"
+            git push
+          fi
