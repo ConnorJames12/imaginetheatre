@@ -2,14 +2,19 @@
 """
 build_llms_full.py — generate llms-full.txt for imaginetheatre.co.uk.
 
-Fetches /llms.txt, extracts every markdown link, fetches each linked page,
-strips Squarespace boilerplate (header/footer/nav/script/style), converts
-the body content to markdown, and concatenates the result into one file.
+Reads the llms.txt index (hosted on GitHub Pages), extracts every markdown
+link, fetches each linked page from the live site, strips Squarespace
+boilerplate (header/footer/nav/script/style), converts the body content to
+markdown, and concatenates the result into one file.
 
-Run nightly via cron, GitHub Actions or a Cloudflare Worker.
-Output (llms-full.txt) gets uploaded back to the host (Cloudflare Workers
-KV, GitHub Pages, S3, etc.) at the same external URL that /llms.txt
-redirects to on imaginetheatre.co.uk.
+Note the two different hosts:
+  - The index (llms.txt) is served from GitHub Pages, because Squarespace
+    won't host a custom /llms.txt at the site root.
+  - The page *content* lives on the live Squarespace site, so the relative
+    links in the index are resolved against --site.
+
+Run nightly via GitHub Actions (see .github/workflows/build-llms-full.yml)
+or cron. The output (llms-full.txt) is published alongside llms.txt.
 
 Dependencies (pip install):
     requests
@@ -17,11 +22,14 @@ Dependencies (pip install):
     markdownify
 
 Usage:
-    python3 build_llms_full.py [--site https://www.imaginetheatre.co.uk] [--out llms-full.txt]
+    python3 build_llms_full.py
+    python3 build_llms_full.py --llms https://connorjames12.github.io/imagine-theatre/llms.txt
+    python3 build_llms_full.py --llms llms.txt --site https://www.imaginetheatre.co.uk
 """
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 from datetime import datetime, timezone
@@ -31,8 +39,14 @@ import requests
 from bs4 import BeautifulSoup
 from markdownify import markdownify as html_to_md
 
+# Where the page *content* lives (the live Squarespace site). Relative links
+# in the index are resolved against this.
 DEFAULT_SITE = "https://www.imaginetheatre.co.uk"
-USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://www.imaginetheatre.co.uk/llms.txt)"
+# Where the index (llms.txt) is published. Squarespace won't serve a custom
+# /llms.txt at its root, so the canonical index is hosted on GitHub Pages.
+# This may be a full URL, a local file path, or a path relative to --site.
+DEFAULT_INDEX = "https://connorjames12.github.io/imagine-theatre/llms.txt"
+USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://connorjames12.github.io/imagine-theatre/llms.txt)"
 TIMEOUT_SECS = 20
 
 # Match the path part of a markdown link target: ](/some/path ...
@@ -43,11 +57,28 @@ TIMEOUT_SECS = 20
 LINK_RE = re.compile(r"\]\((/[^)\s#]*)")
 
 
-def fetch(url: str) -> str:
-    """GET a URL and return text."""
+def fetch(url: str) -> requests.Response:
+    """GET a URL and return the response (raising on HTTP errors)."""
     r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT_SECS)
     r.raise_for_status()
-    return r.text
+    return r
+
+
+def load_index(index_source: str, site: str) -> tuple[str, str]:
+    """Load the llms.txt index. Returns (text, resolved_location).
+
+    `index_source` may be one of:
+      - a full URL (http/https)          -> fetched directly
+      - a path to an existing local file -> read from disk
+      - a site-relative path (e.g. /llms.txt) -> joined to `site` and fetched
+    """
+    if index_source.startswith(("http://", "https://")):
+        return fetch(index_source).text, index_source
+    if os.path.isfile(index_source):
+        with open(index_source, encoding="utf-8") as f:
+            return f.read(), os.path.abspath(index_source)
+    resolved = urljoin(site, index_source)
+    return fetch(resolved).text, resolved
 
 
 def extract_urls(llms_txt: str) -> list[str]:
@@ -127,13 +158,12 @@ def section_block(url: str, markdown_body: str) -> str:
     return "\n".join(parts)
 
 
-def build(site: str, llms_txt_path: str = "/llms.txt", output_path: str = "llms-full.txt") -> None:
+def build(site: str, index_source: str = DEFAULT_INDEX, output_path: str = "llms-full.txt") -> None:
     site = site.rstrip("/")
-    llms_url = urljoin(site, llms_txt_path)
-    print(f"Fetching {llms_url} …", file=sys.stderr)
-    llms_txt = fetch(llms_url)
+    print(f"Loading index from {index_source} …", file=sys.stderr)
+    llms_txt, llms_url = load_index(index_source, site)
     urls = extract_urls(llms_txt)
-    print(f"Found {len(urls)} unique URLs.", file=sys.stderr)
+    print(f"Found {len(urls)} unique URLs. Page content from {site}", file=sys.stderr)
 
     blocks: list[str] = []
 
@@ -166,8 +196,16 @@ def build(site: str, llms_txt_path: str = "/llms.txt", output_path: str = "llms-
         full_url = urljoin(site, path)
         print(f"  → {full_url}", file=sys.stderr)
         try:
-            html = fetch(full_url)
-            main_html = clean_main_content(html)
+            resp = fetch(full_url)
+            content_type = resp.headers.get("Content-Type", "")
+            if "html" not in content_type.lower():
+                # e.g. a linked PDF — don't try to convert it to markdown,
+                # just link to it so the section is still useful.
+                note = f"_Non-HTML resource ({content_type or 'unknown type'}) — see {full_url}_"
+                blocks.append(section_block(path, note))
+                successes += 1
+                continue
+            main_html = clean_main_content(resp.text)
             md = to_markdown(main_html)
             blocks.append(section_block(path, md))
             successes += 1
@@ -208,9 +246,18 @@ def build(site: str, llms_txt_path: str = "/llms.txt", output_path: str = "llms-
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Build llms-full.txt from a site's /llms.txt index.")
-    parser.add_argument("--site", default=DEFAULT_SITE, help="Site root URL (default: imaginetheatre.co.uk)")
-    parser.add_argument("--llms", default="/llms.txt", help="Path to llms.txt on the site")
+    parser = argparse.ArgumentParser(description="Build llms-full.txt from a site's llms.txt index.")
+    parser.add_argument(
+        "--site",
+        default=DEFAULT_SITE,
+        help="Site root that page links resolve against (default: imaginetheatre.co.uk)",
+    )
+    parser.add_argument(
+        "--llms",
+        default=DEFAULT_INDEX,
+        help="The llms.txt index: a full URL, a local file path, or a path relative to --site "
+             "(default: the GitHub Pages index)",
+    )
     parser.add_argument("--out", default="llms-full.txt", help="Output file path")
     args = parser.parse_args()
 
