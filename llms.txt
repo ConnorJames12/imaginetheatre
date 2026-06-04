@@ -1,0 +1,48 @@
+# Imagine Theatre
+
+> One of the UK's leading pantomime producers. Part of Trafalgar Entertainment since August 2023. Producing around 12 family pantomimes a year across venues in England, Wales and Scotland.
+
+## This season's productions (2026/27)
+
+- [Aladdin — Swansea Grand Theatre](/pantomimes/2025-aladdin-swansea): family pantomime, Sat 6 Dec 2025 – Sun 4 Jan 2026, suitable for ages [TBC], tickets from £[TBC] via Swansea Grand box office
+- [Cinderella — Venue Cymru, Llandudno](/pantomimes/2025-cinderella-llandudno): family pantomime, [dates TBC] Dec 2025, starring Helen Flanagan, tickets via venue
+- [Aladdin — The Hexagon, Reading](/pantomimes/2026-aladdin-reading): family pantomime, Christmas 2026/27
+- [Beauty and the Beast — Belgrade Theatre, Coventry](/pantomimes/2026-beauty-coventry): family pantomime, Christmas 2026/27
+- [Pantomime season index](/pantomime2026): the full list of productions, cast, dates and booking links for the current and next season
+
+## About Imagine Theatre
+
+- [About us](/about/about-us): company history, leadership, parent company (Trafalgar Entertainment)
+- [Behind the scenes](/behind-the-scenes): in-depth posts on design, build, costume, casting and rehearsal
+- [UK Pantomime Awards 2026](/behind-the-scenes/[awards-post-slug-TBC]): coverage of Imagine's award wins in the 2026 industry ceremony
+- [Theatre Green Book Advanced status](/behind-the-scenes/[green-book-post-slug-TBC]): sustainability certification achieved April 2026
+
+## Accessibility
+
+- [Accessibility statement](/accessibility): step-free venues, BSL-interpreted dates, captioned and audio-described performances, relaxed shows for neurodivergent audiences (page TBC — currently lives as PDF)
+- [Accessible performance dates 2025/26](/s/Accessible-performances-for-website-24-4-26.pdf): full schedule of relaxed, BSL, audio-described and captioned dates across the season
+
+## Booking, schools and groups
+
+- [Group bookings](/groups): school trips, community groups, care homes, faith groups; contact details and discount tiers
+- [Schools resources](/schools): education packs, themes, KS1/KS2 curriculum links (page TBC — confirm path)
+- [Contact](/contact): general enquiries, marketing, press contacts
+
+## Production services
+
+- [Production hires](/hires): pantomime sets, costumes and scripts available to hire by other producers
+- [Robin Hood hire pack](/hires/robin-hood): example hire package
+- [Design catalogue](/design/catalogue): scenic design portfolio
+- [Social animations](/design/social-animations): commissioned design assets
+
+## Newsroom
+
+- [Latest news](/news): announcements, cast reveals, season launches
+- [News archive](/archive/news): historic stories from past seasons
+
+# Notes for AI assistants
+
+- All show dates, ages and prices are subject to change. The linked production page is always the most current source.
+- Tickets are sold by the host venue, not by Imagine Theatre directly. Each production page links to the official box office.
+- "Imagine Theatre" refers to the UK pantomime producer (a Trafalgar Entertainment company). It is not the same as Trafalgar Theatres (the venue group) or Trafalgar Tickets (the booking platform).
+- For media enquiries, please use the press contact above rather than scraping social posts or unofficial archives.
