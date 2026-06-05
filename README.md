@@ -14,7 +14,7 @@ This project reads from two different places, which is the key thing to understa
 
 | Thing                | Where it lives                                                        | Why |
 |----------------------|-----------------------------------------------------------------------|-----|
-| The **index** (`llms.txt`) | GitHub Pages — `https://connorjames12.github.io/imagine-theatre/llms.txt` | Squarespace won't serve a custom `/llms.txt` at the site root (it returns 404), so the index is hosted on Pages instead. |
+| The **index** (`llms.txt`) | GitHub Pages — `https://connorjames12.github.io/imaginetheatre/llms.txt` | Squarespace won't serve a custom `/llms.txt` at the site root (it returns 404), so the index is hosted on Pages instead. |
 | The **page content** | The live site — `https://www.imaginetheatre.co.uk/...`                | The actual pages (shows, about, etc.) live on Squarespace. The relative links in the index resolve against this. |
 
 The script reads the index from the first, then fetches each page's content from the
@@ -156,7 +156,7 @@ deactivate                     # 5. leave the venv when you're done
 | Flag      | Default                                                          | Description                          |
 |-----------|------------------------------------------------------------------|--------------------------------------|
 | `--site`  | `https://www.imaginetheatre.co.uk`                               | Site root that page links resolve against (where the content lives) |
-| `--llms`  | `https://connorjames12.github.io/imagine-theatre/llms.txt`       | The index: a full URL, a local file path, or a path relative to `--site` |
+| `--llms`  | `https://connorjames12.github.io/imaginetheatre/llms.txt`       | The index: a full URL, a local file path, or a path relative to `--site` |
 | `--out`   | `llms-full.txt`                                                  | Where to write the output file       |
 
 Examples:

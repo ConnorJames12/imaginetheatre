@@ -23,7 +23,7 @@ Dependencies (pip install):
 
 Usage:
     python3 build_llms_full.py
-    python3 build_llms_full.py --llms https://connorjames12.github.io/imagine-theatre/llms.txt
+    python3 build_llms_full.py --llms https://connorjames12.github.io/imaginetheatre/llms.txt
     python3 build_llms_full.py --llms llms.txt --site https://www.imaginetheatre.co.uk
 """
 from __future__ import annotations
@@ -45,8 +45,8 @@ DEFAULT_SITE = "https://www.imaginetheatre.co.uk"
 # Where the index (llms.txt) is published. Squarespace won't serve a custom
 # /llms.txt at its root, so the canonical index is hosted on GitHub Pages.
 # This may be a full URL, a local file path, or a path relative to --site.
-DEFAULT_INDEX = "https://connorjames12.github.io/imagine-theatre/llms.txt"
-USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://connorjames12.github.io/imagine-theatre/llms.txt)"
+DEFAULT_INDEX = "https://connorjames12.github.io/imaginetheatre/llms.txt"
+USER_AGENT = "ImagineLLMSBuilder/1.0 (+https://connorjames12.github.io/imaginetheatre/llms.txt)"
 TIMEOUT_SECS = 20
 
 # Match the path part of a markdown link target: ](/some/path ...
