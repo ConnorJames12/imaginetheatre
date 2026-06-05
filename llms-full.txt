@@ -4,9 +4,9 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-04T10:58:26+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-05T18:45:39+00:00.
 
-> Source map: https://connorjames12.github.io/imagine-theatre/llms.txt
+> Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
 ## Index of included pages
 
@@ -431,7 +431,7 @@ Bass **Dominic Palmer**
 
 [BOOK TICKETS](https://whatsonreading.com/venues/hexagon/whats-on/aladdin-panto-2026)
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/f28142d8-3d87-47f6-8c66-9b7d94291b3e/1080X1080_Aladdin_Digi_V1.jpg)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/a605c37d-c564-404e-81a4-5e9a2206852f/1080x1350_Reading_Aladdin_V1.3.jpg)
 
 **Make Your Christmas Wishes Come True!**
 
@@ -547,7 +547,7 @@ December 3, 2026 – December 30, 2026
 
 December 3, 2026 – December 30, 2026
 
-[![1080x1080_Cinders_Leamington_V2.jpg]()
+[![Cinderella - Leamington 2026]()
 
 Dec
 4](/pantomimes/2026-cinderella-leamington)
@@ -560,7 +560,7 @@ December 4, 2026 – January 3, 2027
 
 December 4, 2026 – January 3, 2027
 
-[![1080x1080_Aladdin_Halifax_V1.jpg]()
+[![Aladdin - Stafford 2026]()
 
 Dec
 4](/pantomimes/2026-aladdin-stafford)
@@ -573,7 +573,7 @@ December 4, 2026 – January 3, 2027
 
 December 4, 2026 – January 3, 2027
 
-[![1080X1080_Aladdin_Digi_V1.jpg]()
+[![Aladdin - Reading 2026]()
 
 Dec
 5](/pantomimes/2026-aladdin-reading)
@@ -677,7 +677,7 @@ December 11, 2026 – January 3, 2027
 
 December 11, 2026 – January 3, 2027
 
-[![1080x1080_Sleeping_General_V3.jpg]()
+[![Sleeping Beauty - Crewe 2026]()
 
 Dec
 11](/pantomimes/2026-sleeping-beauty-crewe)
@@ -690,7 +690,7 @@ December 11, 2026 – January 3, 2027
 
 December 11, 2026 – January 3, 2027
 
-[![Jack main artwork square 1080x1080px.jpg]()
+[![Jack and the Beanstalk - Fareham 2026]()
 
 Dec
 11](/pantomimes/2026-jack-and-the-beanstalk-fareham)
@@ -1083,8 +1083,8 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-04T10:58:34+00:00
-- Source map: https://connorjames12.github.io/imagine-theatre/llms.txt
+- Generated: 2026-06-05T18:45:47+00:00
+- Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
 - Failed fetches: 10
