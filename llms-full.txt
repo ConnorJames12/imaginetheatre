@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-15T09:34:06+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-16T09:03:38+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -449,13 +449,9 @@ Create unforgettable memories with friends and family in this fabulous Christmas
 
 ## junior ensemble auditions
 
-The Junior Ensemble Auditions will take place on **SUNDAY 14 JUNE.**
+The Junior Ensemble Auditions took place on **SUNDAY 14 JUNE.**
 
-For information on the audition day please click [here](/s/Reading-JE-info-2026.pdf).
-
-For the application form please click [here](/s/Reading-JE-application-form-2026.pdf) (*we do not need the form in advance but please bring a completed and printed version with you on the day).*
-
-*Please note the date may be subject to change.*
+Thank you to everyone who auditioned.
 
 ---
 
@@ -1083,7 +1079,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-15T09:34:10+00:00
+- Generated: 2026-06-16T09:03:45+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
