@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-19T08:40:23+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-20T07:08:28+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -582,7 +582,7 @@ December 5, 2026 – January 3, 2027
 
 December 5, 2026 – January 3, 2027
 
-[![Jack main artwork square 1080x1080px.jpg]()
+[![Jack and the Beanstalk - Swindon 2026]()
 
 Dec
 5](/pantomimes/2026-jack-and-the-beanstalk-swindon)
@@ -699,7 +699,7 @@ December 11, 2026 – January 3, 2027
 
 December 11, 2026 – January 3, 2027
 
-[![Peter Pan 1080x1080_Peter-Pan_V1.jpg]()
+[![Peter Pan - High Wycombe 2026]()
 
 Dec
 11](/pantomimes/2026-peter-pan-wycombe)
@@ -1079,7 +1079,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-19T08:40:28+00:00
+- Generated: 2026-06-20T07:08:32+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
