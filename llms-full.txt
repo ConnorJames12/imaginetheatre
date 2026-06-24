@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-23T06:58:39+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-24T06:56:17+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -213,7 +213,7 @@ Drums / Percussion **Paul Smith**
 Bass **Pablo Roberts**
 
 - Posted in [2025 Season](/pantomimes?category=2025+Season)
-- Tagged [Aladdin](/pantomimes?tag=Aladdin), [2025 Swansea](/pantomimes?tag=2025+Swansea)
+- Tagged [2025 Swansea](/pantomimes?tag=2025+Swansea)
 
 ---
 
@@ -456,7 +456,7 @@ Thank you to everyone who auditioned.
 ---
 
 - Posted in [2026 Season](/pantomimes?category=2026+Season)
-- Tagged [2026 Reading](/pantomimes?tag=2026+Reading), [Aladdin](/pantomimes?tag=Aladdin)
+- Tagged [2026 Reading](/pantomimes?tag=2026+Reading)
 
 ---
 
@@ -813,27 +813,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/1db8fd06-7f4e-45b5-a2f3-29cb955d22de/Screenshot+2026-05-15+160309.png)
+[![Celebrating Five Years of Carbon Neutrality]()](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
 
-At [Imagine Theatre](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com), we believe in the power of storytelling, community and creating positive experiences that leave a lasting impact. Alongside bringing magic and entertainment to audiences across the UK, we are also proud to support initiatives that help change lives beyond the stage — including our support of [Lend with Care](https://lendwithcare.org/?utm_source=chatgpt.com).
+Imagine Theatre is proud to mark its fifth consecutive year as a carbon-neutral organisation through verified carbon offsetting. This milestone reflects our ongoing commitment to environmental responsibility and sustainable business practices. As we enter our sixth year of carbon neutrality, we remain dedicated to reducing our environmental impact and supporting initiatives that contribute to a more sustainable future.
 
-Lend with Care is a microfinance initiative run by CARE International UK, one of the world’s leading poverty-fighting charities. The charity helps entrepreneurs in low-income countries access small business loans that allow them to build sustainable futures for themselves and their families.
-
-What makes Lend with Care so powerful is its simplicity. A loan of as little as £15 can help someone buy farming equipment, stock a market stall, purchase livestock, or invest in tools and materials to grow a small business. As the loan is repaid, the funds can then be reinvested to support another entrepreneur, creating a cycle of ongoing opportunity and empowerment.
-
-Since beginning our support in 2019, Imagine Theatre has proudly funded more than 1,225 individual £15 loans through the programme. Because the scheme is self-sustaining, as repayments are made the money is reinvested again and again — with some of our original contributions now helping entrepreneurs for the fourth time over.
-
-The impact of this support has been incredible. Together, these loans have helped support 2,648 entrepreneurs as they build and grow their businesses, while contributing towards the creation of 1,783 jobs within local communities around the world.
-
-For us at Imagine Theatre, supporting Lend with Care reflects values that are incredibly important to our company — creativity, ambition, resilience and giving people the opportunity to thrive. Just as theatre has the ability to inspire confidence, bring people together and spark imagination, initiatives like Lend with Care empower individuals to create brighter futures through their own hard work and determination.
-
-We are incredibly proud to support a charity that focuses not simply on aid, but on empowerment — helping people work their way out of poverty with dignity, independence and long-term sustainability.
-
-![Screenshot 2026-05-15 160357.png]()
-![Screenshot 2026-05-15 160434.png]()
-![Screenshot 2026-05-15 160528.png]()
-
-To find out more about the incredible work of Lend with Care, or to support an entrepreneur yourself, visit [lendwithcare.org](https://lendwithcare.org/?utm_source=chatgpt.com).
+[Read More](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
 
 ---
 
@@ -985,6 +969,16 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![Celebrating Five Years of Carbon Neutrality]()](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
+
+June 23, 2026
+
+[Celebrating Five Years of Carbon Neutrality](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
+
+June 23, 2026
+
+June 23, 2026
+
 [![Creating Opportunity Beyond the Stage: Our Support for Lend with Care]()](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
 
 May 15, 2026
@@ -1025,44 +1019,6 @@ April 14, 2026
 
 April 14, 2026
 
-[![CBeebies legend Justin Fletcher embarks on his brand-new tour!]()](/behind-the-scenes/cbeebies-legend-justin-fletcher-embarks-on-his-brand-new-tour)
-
-April 13, 2026
-
-[CBeebies legend Justin Fletcher embarks on his brand-new tour!](/behind-the-scenes/cbeebies-legend-justin-fletcher-embarks-on-his-brand-new-tour)
-
-April 13, 2026
-
-April 13, 2026
-
-June 4, 2024
-
-[Take Look Behind the Scenes at Imagine Theatre 2024 - Part 1](/behind-the-scenes/behind-the-scenes-at-imagine-theatre)
-
-June 4, 2024
-
-June 4, 2024
-
-[![November  blog.jpg]()](/behind-the-scenes/what-does-a-panto-company-do-throughout-the-year-november)
-
-November 30, 2023
-
-[What Does a Panto Company Do Throughout the Year - November](/behind-the-scenes/what-does-a-panto-company-do-throughout-the-year-november)
-
-November 30, 2023
-
-November 30, 2023
-
-[![October blog.jpg]()](/behind-the-scenes/what-does-a-panto-company-do-throughout-the-year-october)
-
-November 1, 2023
-
-[What Does a Panto Company Do Throughout the Year - October](/behind-the-scenes/what-does-a-panto-company-do-throughout-the-year-october)
-
-November 1, 2023
-
-November 1, 2023
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1079,7 +1035,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-23T06:58:43+00:00
+- Generated: 2026-06-24T06:56:21+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
