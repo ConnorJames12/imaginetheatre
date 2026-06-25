@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-24T06:56:17+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-25T06:56:02+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -468,7 +468,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Source: /pantomime2026
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/1624531025106-BIQJLTVTSZ2KMWW1HJR9/20210624_103625280_iOS.jpg)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/854e24eb-77dd-4dff-9165-7f8c50166935/Pantomimes+Website+Header+Image)
 
 ## Pantomime Season 2026/2027
 
@@ -759,7 +759,7 @@ December 12, 2026 – January 2, 2027
 
 # Imagine Theatre Ltd.
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/1624529898523-CM5KXS738KQSL4W0HMCH/20210624_101746475_iOS.jpg)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/9d8d50e9-f71d-499c-a72c-028e84455cfd/About+Us+Website+Header+Test+2026.jpg)
 
 ### **IMAGINE THEATRE ARE A Producer of pantomime and children's theatre offering spectacular entertainment for the whole family across the UK.**
 
@@ -883,7 +883,7 @@ Please see our [privacy policy](http://www.imaginetheatre.co.uk/cookie-and-priva
 
 ## Source: /hires
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/1624546415161-D1GIY4ICN9LFLRCT365U/20210624_145242797_iOS.png)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/81a897f6-146c-41f8-8187-66a52ea70565/Hire+Shop+Website+Header++2026.jpg)
 
 [Hire Enquiries Form](/hires-enquiries-form)
 
@@ -1035,7 +1035,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-24T06:56:21+00:00
+- Generated: 2026-06-25T06:56:06+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
