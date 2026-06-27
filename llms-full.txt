@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-26T07:02:30+00:00.
+> Generated automatically by build_llms_full.py on 2026-06-27T06:36:05+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -455,6 +455,64 @@ Thank you to everyone who auditioned.
 
 ---
 
+**FAQ’s**
+
+**What age is this pantomime suitable for?**
+
+Suitable for ages 3 and up. It’s suitable for the whole family!
+
+**How long is the show?**
+
+Approximately 125 minutes including a 20-minute interval.
+
+**Is there an interval?**
+
+Yes — there is one interval, with ice creams and drinks available.
+
+**Are there accessible performances?**
+
+Yes — BSL-interpreted, audio-described, captioned and relaxed performances are scheduled. See https://www.imaginetheatre.co.uk/accessible-performances for the schedule.
+
+**How do I book tickets?**
+
+Tickets are sold by the venue. Visit the venue box-office page at <https://whatsonreading.com/venues/hexagon/whats-on/aladdin-panto-2026>
+
+**Where can I park?**
+
+Best place to park is at Broad Street Mall postcode RG1 7QE. Please watch out for any parking restrictions and be aware of closure times.
+
+**Are there places to eat near by?**
+
+Yes! The Hexagon is in the heart of Reading so there are lots of restaurants nearby. Drinks and snacks are also available at the Hexagon before the performance and in the interval.
+
+**Are we expected to shout out?**
+
+You are most welcome to yes! Pantomimes are interactive and shouting out is part of the pantomime experience. If you are looking for a performance which might be quieter or more informal then we do offer accessible performances.
+
+**Where can I get the best value or cheapest tickets?**
+
+On the opening weekend performances, which are Saturday 5th and Sunday 6th December 2026 and the closing weekend of 2nd and 3rd January. Pantomime tickets typically get more expensive the closer to Christmas you get, and better value the further they are from Christmas week.
+
+**Can we take photographs?**
+
+You are most welcome to take photographs before the show, in the interval and as you leave. We do not permit photographs during the show, but there is an opportunity to take photos and video after the song sheet. You will be told when this is.
+
+**Are there family tickets or discounts available?**
+
+There are some discounted family tickets available at certain performances. These tend not to be on offer during the performances closest to Christmas.
+
+**Will we be allowed in if we are running late?**
+
+It can happen! Even the best made plans sometimes go awry and we understand that. Don't worry - latecomers are admitted into the auditorium at a suitable point in the production. This might not be right away but we'll get you in as quickly as we can.
+
+**Can we bring our own snacks?**
+
+Yes of course. All we ask is that snack bags aren't too noisy and don't disturb those around you. Hot and cold drinks and snacks are also available to buy at the venue, and of course there are ice creams available in the interval!
+
+**Do you have an accessible toilet?**
+
+Yes, we have facilities on site.
+
 - Posted in [2026 Season](/pantomimes?category=2026+Season)
 - Tagged [2026 Reading](/pantomimes?tag=2026+Reading)
 
@@ -883,7 +941,7 @@ Please see our [privacy policy](http://www.imaginetheatre.co.uk/cookie-and-priva
 
 ## Source: /hires
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/81a897f6-146c-41f8-8187-66a52ea70565/Hire+Shop+Website+Header++2026.jpg)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/9940e992-3bdb-44d6-bf7b-f563e36554cb/Hire+Shop+Website+Header++2026+%281%29.jpg)
 
 [Hire Enquiries Form](/hires-enquiries-form)
 
@@ -1035,7 +1093,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-26T07:02:34+00:00
+- Generated: 2026-06-27T06:36:13+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
