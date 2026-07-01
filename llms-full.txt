@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-06-30T07:02:48+00:00.
+> Generated automatically by build_llms_full.py on 2026-07-01T07:19:49+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -455,7 +455,7 @@ Thank you to everyone who auditioned.
 
 ---
 
-**FAQ’s**
+### **FAQ’s**
 
 **What age is this pantomime suitable for?**
 
@@ -505,9 +505,9 @@ There are some discounted family tickets available at certain performances. Thes
 
 It can happen! Even the best made plans sometimes go awry and we understand that. Don't worry - latecomers are admitted into the auditorium at a suitable point in the production. This might not be right away but we'll get you in as quickly as we can.
 
-**Can we bring our own snacks?**
+**Are drinks and snacks available at the venue?**
 
-Yes of course. All we ask is that snack bags aren't too noisy and don't disturb those around you. Hot and cold drinks and snacks are also available to buy at the venue, and of course there are ice creams available in the interval!
+Of course! And don’t forget ice creams in the interval.
 
 **Do you have an accessible toilet?**
 
@@ -679,7 +679,7 @@ December 5, 2026 – January 3, 2027
 
 December 5, 2026 – January 3, 2027
 
-[![1080x1080_Cardiff_B&TB_V2.jpg]()
+[![Beauty and the Beast - Cardiff 2026]()
 
 Dec
 5](/pantomimes/2026-beauty-and-the-beast-cardiff)
@@ -1093,7 +1093,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-06-30T07:02:52+00:00
+- Generated: 2026-07-01T07:19:56+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
