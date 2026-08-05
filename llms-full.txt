@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-08-04T06:03:34+00:00.
+> Generated automatically by build_llms_full.py on 2026-08-05T06:02:47+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -547,6 +547,8 @@ November 18, 2026 – January 2, 2027
 
 November 18, 2026 – January 2, 2027
 
+[Read more →](/pantomimes/2026-beauty-and-the-beast-coventry)
+
 November 18, 2026 – January 2, 2027
 
 [![Goldilocks and the Three Bonnie Bears - Glasgow 2026]()
@@ -559,6 +561,8 @@ November 26, 2026 – January 10, 2027
 [Goldilocks and the Three Bonnie Bears - Glasgow 2026](/pantomimes/2026-goldilocks-and-the-three-bonnie-bears-glasgow)
 
 November 26, 2026 – January 10, 2027
+
+[Read more →](/pantomimes/2026-goldilocks-and-the-three-bonnie-bears-glasgow)
 
 November 26, 2026 – January 10, 2027
 
@@ -573,6 +577,8 @@ November 27, 2026 – December 27, 2026
 
 November 27, 2026 – December 27, 2026
 
+[Read more →](/pantomimes/2026-beauty-and-the-beastie-kilmarnock)
+
 November 27, 2026 – December 27, 2026
 
 [![Cinderella Square.png]()
@@ -585,6 +591,8 @@ December 2, 2026 – January 3, 2027
 [Cinderella - Inverness 2026](/pantomimes/2026-cinderella-inverness)
 
 December 2, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-cinderella-inverness)
 
 December 2, 2026 – January 3, 2027
 
@@ -599,6 +607,8 @@ December 3, 2026 – December 30, 2026
 
 December 3, 2026 – December 30, 2026
 
+[Read more →](/pantomimes/2026-beauty-and-the-beast-kirkcaldy)
+
 December 3, 2026 – December 30, 2026
 
 [![Cinderella - Leamington 2026]()
@@ -611,6 +621,8 @@ December 4, 2026 – January 3, 2027
 [Cinderella - Leamington 2026](/pantomimes/2026-cinderella-leamington)
 
 December 4, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-cinderella-leamington)
 
 December 4, 2026 – January 3, 2027
 
@@ -625,6 +637,8 @@ December 4, 2026 – January 3, 2027
 
 December 4, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-aladdin-stafford)
+
 December 4, 2026 – January 3, 2027
 
 [![Aladdin - Reading 2026]()
@@ -637,6 +651,8 @@ December 5, 2026 – January 3, 2027
 [Aladdin - Reading 2026](/pantomimes/2026-aladdin-reading)
 
 December 5, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-aladdin-reading)
 
 December 5, 2026 – January 3, 2027
 
@@ -651,6 +667,8 @@ December 5, 2026 – January 3, 2027
 
 December 5, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-jack-and-the-beanstalk-swindon)
+
 December 5, 2026 – January 3, 2027
 
 [![Vernon Kay stars in Sleeping Beauty at the Churchill Theatre Bromley 2026]()
@@ -663,6 +681,8 @@ December 5, 2026 – January 3, 2027
 [Sleeping Beauty - Bromley 2026](/pantomimes/2026-sleeping-beauty-bromley)
 
 December 5, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-sleeping-beauty-bromley)
 
 December 5, 2026 – January 3, 2027
 
@@ -677,6 +697,8 @@ December 5, 2026 – January 3, 2027
 
 December 5, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-snow-white-swansea)
+
 December 5, 2026 – January 3, 2027
 
 [![Beauty and the Beast - Cardiff 2026]()
@@ -689,6 +711,10 @@ December 5, 2026 – January 3, 2027
 [Beauty and the Beast - Cardiff 2026](/pantomimes/2026-beauty-and-the-beast-cardiff)
 
 December 5, 2026 – January 3, 2027
+
+Beauty and the Beast at New Theatre Cardiff Casting Image featuring Gethin Jones, Steve Speirs, Mike Doyle, Jack Ryan and Jo Osmond
+
+[Read more →](/pantomimes/2026-beauty-and-the-beast-cardiff)
 
 December 5, 2026 – January 3, 2027
 
@@ -703,6 +729,8 @@ December 9, 2026 – January 3, 2027
 
 December 9, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-jack-and-the-beanstalk-hertford)
+
 December 9, 2026 – January 3, 2027
 
 [![875.jpg]()
@@ -715,6 +743,8 @@ December 10, 2026 – December 28, 2026
 [Dick Whittington - Carmarthen 2026](/pantomimes/2026-dick-whittington-carmarthen)
 
 December 10, 2026 – December 28, 2026
+
+[Read more →](/pantomimes/2026-dick-whittington-carmarthen)
 
 December 10, 2026 – December 28, 2026
 
@@ -729,6 +759,8 @@ December 11, 2026 – January 3, 2027
 
 December 11, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-aladdin-halifax)
+
 December 11, 2026 – January 3, 2027
 
 [![Sleeping Beauty - Crewe 2026]()
@@ -741,6 +773,8 @@ December 11, 2026 – January 3, 2027
 [Sleeping Beauty - Crewe 2026](/pantomimes/2026-sleeping-beauty-crewe)
 
 December 11, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-sleeping-beauty-crewe)
 
 December 11, 2026 – January 3, 2027
 
@@ -755,6 +789,8 @@ December 11, 2026 – January 3, 2027
 
 December 11, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-jack-and-the-beanstalk-fareham)
+
 December 11, 2026 – January 3, 2027
 
 [![Peter Pan - High Wycombe 2026]()
@@ -767,6 +803,8 @@ December 11, 2026 – January 3, 2027
 [Peter Pan - High Wycombe 2026](/pantomimes/2026-peter-pan-wycombe)
 
 December 11, 2026 – January 3, 2027
+
+[Read more →](/pantomimes/2026-peter-pan-wycombe)
 
 December 11, 2026 – January 3, 2027
 
@@ -781,6 +819,8 @@ December 12, 2026 – January 3, 2027
 
 December 12, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-cinderella-dartford)
+
 December 12, 2026 – January 3, 2027
 
 [![Beauty and the Beast - Leicester 2026]()
@@ -794,6 +834,8 @@ December 12, 2026 – January 3, 2027
 
 December 12, 2026 – January 3, 2027
 
+[Read more →](/pantomimes/2026-beauty-and-the-beast-leicester)
+
 December 12, 2026 – January 3, 2027
 
 [![1080x1080_Sleeping_General_V3.jpg]()
@@ -806,6 +848,8 @@ December 12, 2026 – January 2, 2027
 [Sleeping Beauty - Llandudno 2026](/pantomimes/2026-sleeping-beauty-llandudno)
 
 December 12, 2026 – January 2, 2027
+
+[Read more →](/pantomimes/2026-sleeping-beauty-llandudno)
 
 December 12, 2026 – January 2, 2027
 
@@ -1093,7 +1137,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-08-04T06:03:42+00:00
+- Generated: 2026-08-05T06:02:54+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
