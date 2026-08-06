@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-08-05T06:02:47+00:00.
+> Generated automatically by build_llms_full.py on 2026-08-06T06:03:52+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -1079,6 +1079,10 @@ June 23, 2026
 
 June 23, 2026
 
+Imagine Theatre is proud to mark its fifth consecutive year as a carbon-neutral organisation through verified carbon offsetting. This milestone reflects our ongoing commitment to environmental responsibility and sustainable business practices. As we enter our sixth year of carbon neutrality, we remain dedicated to reducing our environmental impact and supporting initiatives that contribute to a more sustainable future.
+
+[Read more →](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
+
 June 23, 2026
 
 [![Creating Opportunity Beyond the Stage: Our Support for Lend with Care]()](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
@@ -1088,6 +1092,8 @@ May 15, 2026
 [Creating Opportunity Beyond the Stage: Our Support for Lend with Care](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
 
 May 15, 2026
+
+[Read more →](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
 
 May 15, 2026
 
@@ -1099,6 +1105,10 @@ May 1, 2026
 
 May 1, 2026
 
+A full overview of Imagine Theatre’s 2026/2027 pantos.
+
+[Read more →](/behind-the-scenes/your-guide-to-the-imagine-theatre-pantomime-season-202627)
+
 May 1, 2026
 
 [![Imagine Theatre Celebrates Success at the UK Pantomime Awards 2026]()](/behind-the-scenes/imagine-theatre-celebrates-success-at-the-uk-pantomime-awards-2026)
@@ -1109,6 +1119,10 @@ April 22, 2026
 
 April 22, 2026
 
+[Imagine Theatre](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com) [celebrated a fa](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com)ntastic evening at the 2026 UK Pantomime Awards, taking home two major honours and receiving recognition across multiple categories. From award-winning costumes to standout comedy performances, the night was a celebration of the creativity, collaboration and passion that continue to make Imagine Theatre one of the UK’s leading pantomime producers.
+
+[Read more →](/behind-the-scenes/imagine-theatre-celebrates-success-at-the-uk-pantomime-awards-2026)
+
 April 22, 2026
 
 [![250623_TGB-green_strap_horiz.webp]()](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
@@ -1118,6 +1132,10 @@ April 14, 2026
 [Stafford Pantomime Achieves Advanced Status With The Theatre Green Book](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
 
 April 14, 2026
+
+[Imagine Theatre](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com) [has achieved Ad](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com)vanced status under the Theatre Green Book for its production of *Sleeping Beauty* at Stafford Gatehouse Theatre — a major milestone for sustainable pantomime production. From reusing 100% of the set to carefully planning transport and extending the life of costumes and props, the company is proving that spectacular family entertainment and environmental responsibility can go hand in hand.
+
+[Read more →](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
 
 April 14, 2026
 
@@ -1137,7 +1155,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-08-05T06:02:54+00:00
+- Generated: 2026-08-06T06:03:59+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
