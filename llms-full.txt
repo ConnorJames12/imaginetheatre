@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-08-12T05:01:09+00:00.
+> Generated automatically by build_llms_full.py on 2026-08-13T05:03:23+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -881,18 +881,6 @@ If you are interested in finding out more or want to talk to us about our pantom
 
 ---
 
-## Behind the scenes videos
-
-Meet the Imagine Theatre team and find out more about what we do, and how we go about delivering so many productions all at the same time!
-
-Meet the Imagine Theatre Operations team, who oversee the delivery of all our sets, costumes, props, special effects, transport, production elements etc.
-
-Meet the Imagine Theatre Wardrobe department who oversee the delivery of all our costumes and manage the 40,000+ costume items we own.
-
-Meet Associate Producer and Head of Celebrity Casting Laura Taylor as she talks about her role.
-
----
-
 ## Our History
 
 Our parent company is Trafalgar Entertainment, a fast-growing live entertainment business and theatre producer. Trafalgar Entertainment companies include Trafalgar Theatres, Trafalgar Tickets, London Theatre Direct, Stagedoor, Trafalgar Releasing, Trafalgar Theatre Productions, Stagecoach Performing Arts, Drama Kids, Jonathan Church Theatre Productions and Imagine Theatre. Together this unique blend of companies presents unparalled opportunities for award-winning theatre productions, educational events and live cinema screenings to be staged on a global scale, entertaining, engaging and inspiring audiences worldwide.
@@ -915,11 +903,13 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![Celebrating Five Years of Carbon Neutrality]()](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
+[![La Voix Live: La Voix Is Back for Her Biggest-Ever UK Tour]()](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
 
-Imagine Theatre is proud to mark its fifth consecutive year as a carbon-neutral organisation through verified carbon offsetting. This milestone reflects our ongoing commitment to environmental responsibility and sustainable business practices. As we enter our sixth year of carbon neutrality, we remain dedicated to reducing our environmental impact and supporting initiatives that contribute to a more sustainable future.
+**La Voix is back – bigger, bolder and more fabulous than ever!**
 
-[Read More](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
+Following her unforgettable appearance on *Strictly Come Dancing*, La Voix is bringing her brand-new show, **La Voix Live**, to theatres across the UK in March and April 2027 – and Imagine Theatre are proud to be producing her biggest tour yet!
+
+[Read More](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
 
 ---
 
@@ -1071,6 +1061,22 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![La Voix Live: La Voix Is Back for Her Biggest-Ever UK Tour]()](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
+
+August 12, 2026
+
+[La Voix Live: La Voix Is Back for Her Biggest-Ever UK Tour](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
+
+August 12, 2026
+
+**La Voix is back – bigger, bolder and more fabulous than ever!**
+
+Following her unforgettable appearance on *Strictly Come Dancing*, La Voix is bringing her brand-new show, **La Voix Live**, to theatres across the UK in March and April 2027 – and Imagine Theatre are proud to be producing her biggest tour yet!
+
+[Read more →](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
+
+August 12, 2026
+
 [![Celebrating Five Years of Carbon Neutrality]()](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
 
 June 23, 2026
@@ -1125,20 +1131,6 @@ April 22, 2026
 
 April 22, 2026
 
-[![250623_TGB-green_strap_horiz.webp]()](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
-
-April 14, 2026
-
-[Stafford Pantomime Achieves Advanced Status With The Theatre Green Book](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
-
-April 14, 2026
-
-[Imagine Theatre](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com) [has achieved Ad](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com)vanced status under the Theatre Green Book for its production of *Sleeping Beauty* at Stafford Gatehouse Theatre — a major milestone for sustainable pantomime production. From reusing 100% of the set to carefully planning transport and extending the life of costumes and props, the company is proving that spectacular family entertainment and environmental responsibility can go hand in hand.
-
-[Read more →](/behind-the-scenes/stafford-pantomime-achieves-advanced-status-with-the-theatre-green-book)
-
-April 14, 2026
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1155,7 +1147,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-08-12T05:01:17+00:00
+- Generated: 2026-08-13T05:03:30+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
