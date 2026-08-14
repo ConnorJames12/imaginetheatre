@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-08-13T05:03:23+00:00.
+> Generated automatically by build_llms_full.py on 2026-08-14T05:01:00+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -431,7 +431,7 @@ Bass **Dominic Palmer**
 
 [BOOK TICKETS](https://whatsonreading.com/venues/hexagon/whats-on/aladdin-panto-2026)
 
-![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/a605c37d-c564-404e-81a4-5e9a2206852f/1080x1350_Reading_Aladdin_V1.3.jpg)
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/11a863c8-7222-451d-b005-fac6aa05ff23/1080x1080_Reading_Aladdin_V1.jpg)
 
 **Make Your Christmas Wishes Come True!**
 
@@ -1147,7 +1147,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-08-13T05:03:30+00:00
+- Generated: 2026-08-14T05:01:05+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
