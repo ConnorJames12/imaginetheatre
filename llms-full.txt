@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-10-23T03:30:14+00:00.
+> Generated automatically by build_llms_full.py on 2026-10-24T03:28:26+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -522,11 +522,13 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Pantomime Season 2026/2027
 
-Welcome to Imagine Theatre’s 2026/27 pantomime season. Below is a list of the pantomimes that we are producing throughout the UK this panto season. Further venues will appear here in due course
+Welcome to Imagine Theatre’s 2026/27 pantomime season. Below is a list of the pantomimes that we are producing throughout the UK this panto season.
 
 Please [CLICK HERE](/childrens-auditions) for information about Junior Ensemble auditions.
 
 Please [CLICK HERE](https://www.imaginetheatre.co.uk/accessible-performances) to find out more about our accessible performances.
+
+Please C[LICK HERE](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season) to read our full season press release
 
 [![Untitled design (3).jpg]()
 
@@ -847,6 +849,330 @@ December 12, 2026 – January 2, 2027
 
 ---
 
+## **IMAGINE THEATRE UNVEILS A SHOW-STOPPING 2026 PANTOMIME SEASON**
+
+**Vernon Kay, La Voix, Gethin Jones, Jack P. Shepherd, Owain Wyn Evans, Anne Hegerty, Richie Anderson, Steve Speirs, Su Pollard, Joe Pasquale, AJ and Curtis Pritchard, Jenny Ryan, Suzanne Shaw, Justin Fletcher and more join an all-star line-up across 21 pantomimes nationwide**
+
+This Christmas, some of the UK’s most recognisable faces are heading to a theatre near you as Imagine Theatre unveils its spectacular 2026 season. With twenty one pantomimes, this season promises to be bigger, brighter and packed with more star power than ever, with an incredible roll-call of familiar faces joining the finest panto dames, comics, dancers and singers from across the UK.
+
+Four of the UK’s favourite TV and radio presenters – **Vernon Kay, Gethin Jones, Owain Wyn Evans** and **Richie Anderson** – swap the studio for the stage and a good dose of panto madness. They’ll be joined by screen and stage favourites including **Steve Speirs** and Coronation Street star **Jack P. Shepherd**, while panto royalty **Su Pollard**, **Joe Pasquale** and *Strictly Come Dancing* favourite **La Voix** are guaranteed to have audiences rolling in the aisles.
+
+There’s no shortage of familiar faces for younger audiences either. Megastar **Justin Fletcher** will be joined by Balamory’s PC Plum, **Andrew Agnew**, double BAFTA winner **Mark Rhodes** and popular CBeebies presenter **Rebecca Keatley**.
+
+Reaching for the wand rather than the buzzer this Christmas are *‘Chasers’*  **Anne Hegerty** and **Jenny Ryan**, with twinkle-toed brothers **AJ and Curtis Pritchard**, *Britain’s Got Talent* finalists **Han & Fran**, pop and musical theatre favourite **Suzanne Shaw**, and much-loved ‘Joseph’ **Keith Jack** adding even more sparkle to the season.
+
+Joining this stellar line-up is a host of well-known West End performers, who will share the stage with talented local youngsters, giving audiences the chance to see the stars of tomorrow performing alongside some of Britain’s best-known faces.
+
+This year, Imagine Theatre will present panto in Bromley, Cardiff, Carmarthen, Coventry, Crewe, Dartford, Fareham, Glasgow, High Wycombe, Halifax, Hertford, Inverness, Kilmarnock, Kirkcaldy, Leamington Spa, Llandudno, Leicester, Reading, Stafford, Swansea and Swindon.
+
+The season builds on Imagine Theatre's award-winning track record, with the company having received almost 40 UK Pantomime Association Award nominations in recent years and taking home nine awards, including Best Set and Best Pantomime Over 900 Seats.
+
+Laura Taylor, Head of Celebrity Casting at Imagine Theatre, said: *“We are absolutely thrilled with this year’s line-up of shows and stars. Pantomime season is always such a special time of year and it’s a rare opportunity for the whole family to get together, have some escapism and make memories that will last a lifetime. So, we need to make sure the cast on stage are having a good time too as that becomes infectious. The shows that we’ve put together this year are guaranteed to be a whole lot of fun!”*
+
+Steve Boden, Joint CEO of Imagine Theatre, said:” *Creating panto is special. It’s a huge team effort, from the team behind the scenes and our cast and crew, everyone brings a bit of themselves to it. We’re incredibly proud this year once again to work with such a brilliant mix of established names and local talent, and to create shows that value tradition and storytelling, putting families at the front and centre. We put a lot of heart into our pantomimes, and I hope that comes across the moment the curtain goes up.”*
+
+Expect spectacular sets, big dance numbers, hilarious comedy, singalong favourites, sensational special effects and plenty of audience participation - all the glorious chaos that makes panto one of Britain’s favourite traditions.
+
+Dust off those festive jumpers and get ready to boo, hiss, cheer and sing your heart out Christmas is coming, and Imagine Theatre is bringing a whole lot of panto magic with it.
+
+Visit imaginetheatre.co.uk for more information and tickets
+
+### **LISTINGS**
+
+**ADAM SMITH THEATRE. KIRKCALDY**
+
+**BEAUTY AND THE BEAST**
+
+**03 December 2026 – 30 December 2026**
+
+[www.onfife.com](http://www.onfife.com) 
+
+ Beauty and the Beast comes to life at the Adam Smith Theatre this Christmas with a magical Christmas pantomime packed with laughs, dazzling sets and show-stopping performances the whole family will love. When a prince is cursed only true love can break the spell before the final petal falls from the enchanted rose. Can Belle see beyond appearances and learn to love the Beast?
+
+ Whether it’s your first visit or a festive tradition, don’t miss one of Fife’s most popular Christmas shows.
+
+**BEAM: HERTFORD**
+
+**JACK AND THE BEANSTALK**
+
+**09 December 2026 – 03 January 2027**
+
+[**www.beamhertford.co.uk**](http://www.beamhertford.co.uk)
+
+ A giant adventure is climbing its way to BEAM this Christmas as Jack and the Beanstalk bursts onto the stage in a spectacular, toe-tapping, laugh-out-loud pantomime for the whole family. When the Trott family finds themselves without a bean to their name and an evil giant threatens their village, brave young Jack swaps the family cow for a handful of magic beans sparking an epic journey to the land of giants.
+
+ Back by popular demand are larger -than life dame MAMA G and comedian and magician Tom Brace joined by local favourite Alistair Barrie,. Bigger, bolder, and funnier than ever, whether you’re a panto regular or brand new to the tradition, this is the festive treat you won’t want to miss
+
+**CARMARTHEN LYRIC THEATRE**
+
+**DICK WHITTIGNTON**
+
+**10 – 28 December 2026**
+
+[**www.theatrausirgar.co.uk**](http://www.theatrausirgar.co.uk)
+
+The cat’s out of the bag… Dick Whittington is coming to The Lyric, This classic family pantomime will be packed with dazzling costumes, toe-tapping songs, belly-laughs, and more panto mischief than you can shake a spotted handkerchief at!
+
+ When Dick realises he is penniless, he sets out on a journey to London, where the streets are reportedly paved with gold. And, of course, his trusty cat joins him for this paw-some adventure.
+
+ Expect fairytale fun, enchanting sets, and a show-stopping cast that will have you cheering, booing, and singing along from start to finish. It’s a magical festive tradition you won’t want to miss!
+
+**CHURCHILL THEATRE, BROMLEY**
+
+**SLEEPING BEAUTY**
+
+**05 December 2026 – 03 January 2027**
+
+[**www.trafalgartickets.com/churchill-theatre-bromley**](http://www.trafalgartickets.com/churchill-theatre-bromley)
+
+ Radio and TV Favourite Vernon Kay is heading to Bromley this Christmas as he returns to the pantomime stage in Churchill Theatre's spectacular production of Sleeping Beauty. He is joined by Balamory’s PC Plum Andrew Agnew and West End Theatre favourites Rebekah Lowings, James Bisp Jayme-Lee Zanoncelli and Sophie Naglik.
+
+ When Carabosse’s evil curse causes Princess Beauty to prick her finger on a spinning wheel and fall into an enchanted sleep, can anyone rescue her before it is too late? Packed with dazzling costumes, spectacular scenery, side-splitting comedy and show-stopping songs, this high-quality production promises festive fun for all ages that will leave the whole family wide awake with excitement.
+
+**COVENTRY BELGRADE**
+
+**BEAUTY AND THE BEAST**
+
+**18 November 2026 – 02 January 2027**
+
+[**www.belgrade.co.uk**](http://www.belgrade.co.uk)
+
+ For Christmas 2026, the Belgrade Theatre presents the most enchanting tale of all, Beauty and the Beast, written by and starring Coventry’s favourite dame, Iain Lauchlan. When beautiful Belle is kidnapped by a frightening Beast and locked away in his terrifying castle, she soon discovers there may be more to the Beast than meets the eye. Can he change his selfish ways and find true love before it is too late?
+
+ Guaranteed to bring a touch of magic, mayhem and monstrous fun to your festive celebrations. Expect breathtaking sets, crazy costumes and the seasonal silliness that makes a trip to the Belgrade san unmissable treat for thousands of families every year.
+
+**CREWE LYCEUM**
+
+**SLEEPING BEAUTY**
+
+**11 December 2026 – 03 January 2027**
+
+[**www.crewelyceum.co.uk**](http://www.crewelyceum.co.uk)
+
+ Sleeping Beauty at Crewe Lyceum stars national treasure and panto leg and Su Pollard, alongside Cheshire favourites Malcolm Lord and Ste Johnston, returning by popular demand. When the wicked fairy Carabosse casts her sinister curse, the princess is doomed to prick her finger on a spinning wheel and fall into a deep enchanted sleep. Can anyone break the spell before it is too late?
+
+ Bursting with everything you love about the Crewe Lyceum pantomime, *This pant of your dreams promises* laugh-out-loud comedy a fabulously outrageous dame, a deliciously wicked villain, show stopping musical numbers and plenty of slapstick fun for audiences of all ages in a magical festive adventure.
+
+**DE MONTFORT HALL, LEICESTER**
+
+**BEAUTY AND THE BEAST**
+
+**12 December 2026 – 03 January 2027**
+
+[**www.demontforthall.co.uk**](http://www.demontforthall.co.uk)
+
+ Beauty and the Beast stars The Chase TV quiz legend Jenny Ryan welcoming back comedian Jarred
+
+Christmas and Leicester’s very own larger-than-life panto dame Jack Ballard. When a prince is cursed to live as a Beast, only true love can break the spell before the last petal falls from an enchanted rose.
+
+ In a fairytale story beloved by generations young and old, with hilarious jokes, catchy songs, and panto joy aplenty, this charming pantomime promises to be a festive treat for the whole family it would be beastly to miss.
+
+**EDEN COURT, INVERNESS**
+
+**CINDERELLA**
+
+**02 December 2026 – 03 January 2027**
+
+[**www.eden-court.co.uk**](http://www.eden-court.co.uk)
+
+ Eden Court’s spectacular family pantomime is back with all the magic, music and mayhem you’ve come to know and love! Poor Cinderella dreams of a very different life as she toils night and day, but when a royal invitation arrives, her chance to escape could finally be within reach. Will her wicked stepsisters spoil her chance at happiness or can her Fairy Godmother and ever-cheerful Buttons work their magic in time?
+
+ Everyone’s favourite rags to riches tale will be full of all of the ingredients you love from the Eden Court panto: side-splitting slapstick, dazzling musical numbers and plenty of audience participation for the whole family.
+
+**FAREHAM LIVE**
+
+**JACK AND THE BEANSTALK**
+
+**11 December 2026 – 03 January 2027**
+
+[**www.farehamlive.co.uk**](http://www.farehamlive.co.uk)
+
+ Fee-fi-fo-fum! The Chase’s Anne Hegerty heads to Fareham Live this Christmas alongside returning panto Dame Josiah Eloi in a giant family adventure. When Jack swaps his family cow for a handful of magic beans, he finds himself on an epic journey to the land of giants. But with an evil giant terrorising the village, will Jack be able to save the day?
+
+ Expect dazzling sets, show-stopping songs, plenty of audience participation, and more magic than you can shake a bean at in a spectacular, toe-tapping, laugh-out-loud festive treat for the whole family.
+
+**GALLEON CENTRE, KILMARNOCK**
+
+**BEAUTY AND THE BEASTIE**
+
+**27 November 2026 – 27 December 2026**
+
+[**www.ayrshire360.com**](http://www.ayrshire360.com)
+
+ The Killie panto returns to the Galleon Auditorium this festive season with the enchanting tale of Beauty and the Beastie! When a selfish prince is cursed to live as a beast, his only hope is to find love before the last petal falls from an enchanted rose. Can village beauty Belle see beyond appearances and learn to love a beast?
+
+ With everything Kilmarnock panto audiences adore – a magical fairytale, laugh-out-loud comedy, toe-tapping songs and plenty of festive sparkle – this spectacular production promises fun for the whole family.
+
+**GLASGOW PAVILION**
+
+**GOLDILOCKS AND THE THREE BONNIE BEARS**
+
+**26 November 2026 – 10 January 2027 (**
+
+[**www.paviliontheatre.co.uk**](http://www.paviliontheatre.co.uk)**.**
+
+ Glasgow’s much-loved panto returns with Goldilocks and the Three Bonnie Bears, starring Pavilion favourites Liam Dolan, Grado, Stephen Purdon, Scott Fletcher, Jack Jester, Jennifer Neil, Valissa Scott and Craig
+
+Glover, alongside The Dolls’ Louise McCarthy. When Goldilocks, daughter of circus owner Gertie, encounters a family of three bonnie bears, she must team up with her new furry friends to save the circus from a wicked ringmaster.
+
+ Packed with festive spirit, all of the usual Pav mayhem, side-splitting comedy, and plenty of surprises for kids and grown-ups alike, this is the Pavilion’s must-see festive tradition, fun, festive, and oh-so-full of cheer! Don’t miss the fairy-tale extravaganza that’s “just right” for the whole family!
+
+**LEAMINGTON ROYAL SPA CENTRE**
+
+**CINDERELLA**
+
+**04 December 2026 – 03 January 2027**
+
+[**www.warwickdc.gov.uk/royalspacentre/info/71/panto**](https://www.warwickdc.gov.uk/royalspacentre/info/71/panto)
+
+ Cinderella comes to the Royal Spa Centre this Christmas with dance duo AJ and Curtis Pritchard leading the cast.
+
+Poor Cinderella toils night and day, dreaming of a very different life. When a royal invitation arrives, it seems her wish for a brighter future might finally come true. But will her Wicked Stepsisters spoil her chance at happiness? Or can her Fairy Godmother – with a little help from the ever-cheerful Buttons – work their magic in time?
+
+ Everyone’s favourite rags to riches tale will be full of all of the ingredients you love from the Spa Centre panto: side-splitting slapstick, dazzling musical numbers, and plenty of audience participation for the whole family.
+
+**NEW THEATRE, CARDIFF**
+
+**BEAUTY AND THE BEAST**
+
+**05 December 2026 – 03 January 2027**
+
+[**www.newtheatrecardiff.co.uk**](http://www.newtheatrecardiff.co.uk)
+
+ A tale as old as time is coming to life! Beauty and the Beast stars much-loved TV Presenter Gethin Jones star alongside film and stage actor Steve Speirs and Cardiff’s favourite Dame Mike Doyle in a panto packed with laugh-out-loud comedy, dazzling costumes, show-stopping songs, and jaw-dropping magic that will delight the entire family, When a Prince is cursed to live as a fearsome Beast, only true love can break the spell before the last petal falls. Could Belle, a book-loving village girl, be his heroine?
+
+ Join in the fun with a cast of colourful characters as they discover that true beauty lies within!
+
+**ORCHARD THEATRE, DARTFORD**
+
+**CINDERELLA**
+
+**12 December 2026 – 03 January 2027**
+
+[**www.orchardtheatre.co.uk**](http://www.orchardtheatre.co.uk)
+
+ The biggest ball of the year awaits… and you’re all invited! Panto legend Joe Pasquale returns to Dartford to star in
+
+Cinderella at the newly refurbished Orchard Theatre. He is joined by Musical Theatre favourites Keith Jack, Abbie Budden, Ben Goffe, Gareth Mitchell, Garnon Davies and Vanessa Dumatey.
+
+ As Cinderella dreams of escaping her life of chores, a royal invitation offers her the chance to change her fortunes – but can she make it to the ball before midnight?
+
+ Brilliantly brought to life with an amazing, immersive award-winning set featuring animated scenes, glittering costumes, and mesmerising special effects that will leave the whole family gasping with delight. Packed with plenty of festive sparkle, laugh-out-loud comedy, show-stopping songs, audience participation galore Cinderella promises to be the perfect festive treat for all the family.
+
+**READING HEXAGON**
+
+**ALADDIN**
+
+**05 December 2026 – 03 January 2027**
+
+[**www.whatsonreading.com/venues/hexagon/whats-on/aladdin-panto-2026**](http://www.whatsonreading.com/venues/hexagon/whats-on/aladdin-panto-2026)
+
+ Climb aboard the magic carpet and soar into the spectacular world of Aladdin as Reading’s favourite panto double act, children’s TV megastar Justin Fletcher and award-winning dame Paul Morse take you on a magical family adventure.  on a spellbinding adventure as Aladdin attempts to outwit the wicked sorcerer, claim his fortune, and win the heart of his true love.
+
+ Full of laughter, wonder, and festive cheer, Aladdin will feature another dazzling digital set with animated scenes and mesmerising effects, plus all of the ingredients you know and love in a Hexagon pantomime - side-splitting comedy, dazzling costumes and show-stopping musical numbers! Create unforgettable memories with friends and family in this fabulous Christmas treat
+
+**STAFFORD GATEHOUSE**
+
+**ALADDIN**
+
+**04 December 2026 – 03 January 2027**
+
+[**www.gatehousetheatre.co.uk**](http://www.gatehousetheatre.co.uk)
+
+ Climb aboard the magic carpet and soar into the spectacular world of Aladdin Stafford’s unmissable family pantomime starring Mark Rhodes, David Phipps-Davis and Smantha Spragg. Will Aladdin outwit the wicked sorcerer, claim his fortune, and win the heart of his true love? Join us to find out in a spellbinding adventure bursting with laughter, wonder, and festive cheer.
+
+ Packed with side-splitting comedy, dazzling costumes, and show-stopping musical numbers, Aladdin has all the ingredients for the ultimate Christmas treat.
+
+**SWANSEA GRAND**
+
+**SNOW WHITE**
+
+**05 December 2026 – 03 January 2027**
+
+[**www.swanseagrand.co.uk**](http://www.swanseagrand.co.uk)
+
+ Are you ready for the most magical panto of them all? BBC presenter Owain Wyn Evans, CBeebies favourite Rebecca Keatley, singer and TV personality Suzanne Shaw, panto favourite Christian Patterson and funnyman
+
+Steve Walls lead the cast of Snow White at Swansea Grand Theatre, with a special digital appearance from Swansea’s own Kev Johns.
+
+ When the Magic Mirror declares Snow White the fairest of them all, the Wicked Queen is consumed by jealousy. Can Snow White’s friends save her?
+
+ Packed with glittering costumes, show-stopping songs, laugh-out-loud comedy and more magic than you can wave a wand at, this is the Christmas tradition your family won't want to miss!
+
+**VENUE CYMRU**
+
+**SLEEPING BEAUTY**
+
+**12 December 2026 – 02 January 2027**
+
+ Coronation Street’s Jack P Shepherd leads the cast of Sleeping Beauty at Venue Cymru this Christmas alongside Llandudno favourites John Evans, Simon Nehan , Britain’s Got Talent stars Han and Fran and musical theatre star Corrine Cherish. When wicked fairy Carabosse’s curse causes Princess Aurora to prick her finger on a spinning wheel and fall into an enchanted sleep, can anyone rescue her before it is too late?
+
+ Packed with everything you love about the Venue Cymru pantomime: a side-splitting comic, an outrageous dame, a delightfully devious baddie, spectacular musical numbers and plenty of slapstick fun for all ages. Don’t miss out on the panto of your dreams
+
+**VICTORIA THEATRE HALIFAX**
+
+**ALADDIN**
+
+**11 December 2026 – 03 January 2027**
+
+[**www.victoriatheatre.co.uk**](http://www.victoriatheatre.co.uk)
+
+ Make your Christmas wishes come true as Aladdin takes to the stage at Halifax’s Victoria Theatre. Andrew Pollard and Matthew Allen, Halifax’s much-loved panto duo, return to pantoland for another magical adventure. Will Aladdin outwit the wicked sorcerer, claim his fortune and win the heart of his true love?
+
+ Climb aboard the magic carpet and soar into a spectacular world packed with laughter, wonder and festive cheer.
+
+Packed with side-splitting comedy, dazzling costumes, and show-stopping musical numbers, Aladdin has all the ingredients for the ultimate Christmas treat.
+
+**WYCOMBE SWAN**
+
+**PETER PAN**
+
+**11 December 2026 – 03 January 2027**
+
+[**www.wycombeswan.co.uk**](http://www.wycombeswan.co.uk)
+
+ Darlings, she’s back! The fabulous La Voix returns to the Wycombe panto with even more magic, glitter (and sequins!) as the mischievous Tinker Bell. Expect comedy and mayhem as she teams up with hilarious funnyman Kev Orkian as Smee. One thing is for sure… you will be laughing your socks off all the way to Neverland!
+
+ Join Peter, Wendy, and the Lost Boys on a swashbuckling journey to the magical island Neverland, where adventure awaits around every corner - and the dastardly Captain Hook is never far behind.
+
+ Expect laugh-out-loud comedy, spectacular special effects, show-stopping songs, plenty of audience participation and all the panto magic you know and love, this timeless tale will delight children and grown-ups alike. It’s the perfect festive treat for the whole family.
+
+**WYVERN THEATRE, SWINDON**
+
+**JACK AND THE BEANSTALK**
+
+**05 December 2026 – 03 January 2027**
+
+[**www.swindontheatre.co.uk**](http://www.swindontheatre.co.uk)
+
+ A giant adventure is climbing it’s way to the Wyvern Theatre this Christmas, starring Radio 2’s Richie Anderson, Britain’s Got Talent’s Jamie Leahey and Swindon’s favourite panto dame David Ashley. When Jack swaps the family cow for a handful of magic beans, he finds himself on an extraordinary journey to the land of giants. Will they really have to sell Buttercup the family cow just to survive?
+
+ Expect dazzling sets, show-stopping songs, plenty of audience participation, and more panto magic than you can shake a bean at! Bigger, bolder, and funnier than ever. Whether you’re a panto regular or brand new to the tradition, this is the festive treat you won’t want to miss.
+
+### **About Imagine Theatre**
+
+Imagine Theatre are an innovative, award-winning theatre production company offering spectacular entertainment for the whole family across the UK.
+
+Building on a legacy of family entertainment stretching back over 25 years, Imagine Theatre - led by husband-and-wife team Steve and Sarah Boden and supported by an amazing team of professionals – have produced more than 260 professional pantomimes and multiple children’s theatre tours.
+
+Their family friendly shows have won multiple awards and have been received by audiences of all ages with huge positivity and to great critical acclaim. Over the last few years, Imagine Theatre have received almost forty nominations from the UK Pantomime Association Awards, winning nine, including awards for the Best Set and Best Pantomime over 900 seats.
+
+Part of the Trafalgar Entertainment group of companies, each year Imagine Theatre facilitate productions in more than 50 venues across the UK. This year, Imagine Theatre are producing, co-producing or working in association with pantomimes in Bromley, Cardiff, Carmarthen, Coventry, Crewe, Dartford, Fareham, Glasgow, High Wycombe, Halifax, Hertford, Inverness, Kilmarnock, Kirkcaldy, Leamington Spa, Llandudno, Leicester, Reading, Stafford, Swansea and Swindon.
+
+Spring 2026 also saw the continuation of the hugely popular UK tour of Justin Live - Justin Time To Rock, alongside Scrumptious House Productions, starring CBeebies Megastar Justin Fletcher. They will also be involved with producing an exciting new musical, Hen Night Horror, which debuted in 2024 in Scotland to critical acclaim and returns to Scottish theatres this Autumn.
+
+Spring 2027 will see them touring the incomparable La Voix who will be visiting 35 theatres across the UK in her biggest and boldest show to date – La Voix Live and which will also include a date at the London Palladium.
+
+Proud to be a Carbon Neutral company, Imagine Theatre operate from a purpose-built facility in Coventry which houses their head offices and a large scenic, costume and props store, as well as their costume and props workshops. Following substantial growth over the past couple of years, 2025 saw an exciting move to new larger premises in Coventry, Trafalgar House, also saw them create a Midlands hub for the Trafalgar Entertainment Group.
+
+Imagine also provides a range of services from the hire of individual costumes, pantomime scripts, special effects or theatrical sets through to the staging of entire productions.
+
+Over 500 actors, technicians, directors, designers, choreographers, musicians and stage management work for Imagine during the Christmas period using their skills to create the very best productions possible.
+
+Whilst being cheerleaders of the wonderful traditional elements that make up a great panto, over the past few years Imagine have also worked with their creative teams to develop a new innovative and immersive pantomime experience which uses spectacular animated scenery and transports audiences into the world of the production, described by many critics and audience members as ‘Incredible’ and ‘Mesmerising’.
+
+For further information check out their website at www.imaginetheatre.co.uk and follow them on Facebook, X or Instagram.
+
 ---
 
 ## Source: /about/about-us
@@ -895,13 +1221,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![La Voix Live: La Voix Is Back for Her Biggest-Ever UK Tour]()](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
+[![Beyond the Stage: How Imagine Theatre Makes Pantomime Accessible, Sustainable and Educational ]()](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
 
-**La Voix is back – bigger, bolder and more fabulous than ever!**
+Great pantomime is about more than laughter, sparkle and festive family fun. Discover how Imagine Theatre is helping to make theatre more accessible through inclusive performances, leading the way in sustainable pantomime production through its circular reuse model, and inspiring future generations through the educational benefits of live theatre. From accessibility and audience development to carbon-neutral operations and community impact, explore how modern pantomime can entertain, engage and make a positive difference both on and off the stage.
 
-Following her unforgettable appearance on *Strictly Come Dancing*, La Voix is bringing her brand-new show, **La Voix Live**, to theatres across the UK in March and April 2027 – and Imagine Theatre are proud to be producing her biggest tour yet!
-
-[Read More](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
+[Read More](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
 
 ---
 
@@ -1053,6 +1377,60 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![Beyond the Stage: How Imagine Theatre Makes Pantomime Accessible, Sustainable and Educational ]()](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
+
+October 23, 2026
+
+[Beyond the Stage: How Imagine Theatre Makes Pantomime Accessible, Sustainable and Educational](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
+
+October 23, 2026
+
+Great pantomime is about more than laughter, sparkle and festive family fun. Discover how Imagine Theatre is helping to make theatre more accessible through inclusive performances, leading the way in sustainable pantomime production through its circular reuse model, and inspiring future generations through the educational benefits of live theatre. From accessibility and audience development to carbon-neutral operations and community impact, explore how modern pantomime can entertain, engage and make a positive difference both on and off the stage.
+
+[Read more →](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
+
+October 23, 2026
+
+[![The Ultimate Guide to Family Christmas Theatre and Pantomime in the UK]()](/behind-the-scenes/best-family-christmas-theatre-pantomime-guide)
+
+October 23, 2026
+
+[The Ultimate Guide to Family Christmas Theatre and Pantomime in the UK](/behind-the-scenes/best-family-christmas-theatre-pantomime-guide)
+
+October 23, 2026
+
+Discover why pantomime is the ultimate family Christmas experience in the UK. From multigenerational entertainment and magical memories to spectacular, weatherproof live theatre, explore what makes an Imagine Theatre pantomime an unforgettable festive tradition.
+
+[Read more →](/behind-the-scenes/best-family-christmas-theatre-pantomime-guide)
+
+October 23, 2026
+
+[![Why Imagine Theatre is One of the UK's Leading Pantomime Producers]()](/behind-the-scenes//why-imagine-theatre-leading-uk-pantomime-producer)
+
+October 23, 2026
+
+[Why Imagine Theatre is One of the UK's Leading Pantomime Producers](/behind-the-scenes//why-imagine-theatre-leading-uk-pantomime-producer)
+
+October 23, 2026
+
+Discover why Imagine Theatre is one of the UK's leading independent pantomime producers. With more than 275 professional pantomimes, award-winning productions, nationwide reach, carbon-neutral operations and a commitment to accessible, sustainable family entertainment, Imagine Theatre continues to set the standard for modern pantomime production across the UK.
+
+[Read more →](/behind-the-scenes//why-imagine-theatre-leading-uk-pantomime-producer)
+
+October 23, 2026
+
+[![Vernon Kay - Bromley.jpg]()](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
+
+October 23, 2026
+
+[IMAGINE THEATRE UNVEILS A SHOW-STOPPING 2026 PANTOMIME SEASON](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
+
+October 23, 2026
+
+[Read more →](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
+
+October 23, 2026
+
 [![La Voix Live: La Voix Is Back for Her Biggest-Ever UK Tour]()](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
 
 August 12, 2026
@@ -1068,60 +1446,6 @@ Following her unforgettable appearance on *Strictly Come Dancing*, La Voix is br
 [Read more →](/behind-the-scenes/la-voix-live-la-voix-is-back-for-her-biggest-ever-uk-tour)
 
 August 12, 2026
-
-[![Celebrating Five Years of Carbon Neutrality]()](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
-
-June 23, 2026
-
-[Celebrating Five Years of Carbon Neutrality](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
-
-June 23, 2026
-
-Imagine Theatre is proud to mark its fifth consecutive year as a carbon-neutral organisation through verified carbon offsetting. This milestone reflects our ongoing commitment to environmental responsibility and sustainable business practices. As we enter our sixth year of carbon neutrality, we remain dedicated to reducing our environmental impact and supporting initiatives that contribute to a more sustainable future.
-
-[Read more →](/behind-the-scenes/celebrating-five-years-of-carbon-neutrality)
-
-June 23, 2026
-
-[![Creating Opportunity Beyond the Stage: Our Support for Lend with Care]()](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
-
-May 15, 2026
-
-[Creating Opportunity Beyond the Stage: Our Support for Lend with Care](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
-
-May 15, 2026
-
-[Read more →](/behind-the-scenes/1bfbciw6goy9ases4ddsw18jse759l)
-
-May 15, 2026
-
-[![Your Guide To The Imagine Theatre Pantomime Season 2026/27]()](/behind-the-scenes/your-guide-to-the-imagine-theatre-pantomime-season-202627)
-
-May 1, 2026
-
-[Your Guide To The Imagine Theatre Pantomime Season 2026/27](/behind-the-scenes/your-guide-to-the-imagine-theatre-pantomime-season-202627)
-
-May 1, 2026
-
-A full overview of Imagine Theatre’s 2026/2027 pantos.
-
-[Read more →](/behind-the-scenes/your-guide-to-the-imagine-theatre-pantomime-season-202627)
-
-May 1, 2026
-
-[![Imagine Theatre Celebrates Success at the UK Pantomime Awards 2026]()](/behind-the-scenes/imagine-theatre-celebrates-success-at-the-uk-pantomime-awards-2026)
-
-April 22, 2026
-
-[Imagine Theatre Celebrates Success at the UK Pantomime Awards 2026](/behind-the-scenes/imagine-theatre-celebrates-success-at-the-uk-pantomime-awards-2026)
-
-April 22, 2026
-
-[Imagine Theatre](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com) [celebrated a fa](https://www.imaginetheatre.co.uk?utm_source=chatgpt.com)ntastic evening at the 2026 UK Pantomime Awards, taking home two major honours and receiving recognition across multiple categories. From award-winning costumes to standout comedy performances, the night was a celebration of the creativity, collaboration and passion that continue to make Imagine Theatre one of the UK’s leading pantomime producers.
-
-[Read more →](/behind-the-scenes/imagine-theatre-celebrates-success-at-the-uk-pantomime-awards-2026)
-
-April 22, 2026
 
 [**See all blogs >**](/behind-the-scenes)
 
@@ -1139,7 +1463,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-10-23T03:30:20+00:00
+- Generated: 2026-10-24T03:28:34+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
