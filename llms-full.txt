@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-10-27T03:31:29+00:00.
+> Generated automatically by build_llms_full.py on 2026-10-28T03:22:41+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -1221,11 +1221,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![Behind the Scenes: How a Pantomime Is Made]()](/behind-the-scenes/how-a-pantomime-is-made)
+[![50 Pantomime Questions Answered: The Ultimate Pantomime FAQ]()](/behind-the-scenes/50-pantomime-questions-answered)
 
-Ever wondered how a pantomime is made? Discover the journey from script to stage as the team behind Imagine Theatre creates the sets, costumes, music, comedy and magic that bring Britain's favourite Christmas theatre tradition to life.
+Planning your first pantomime, continuing a family Christmas tradition, or simply curious about Britain's favourite festive entertainment? From "What is a pantomime?" and "Why do audiences shout 'He's Behind You'?" to questions about costumes, characters, audience participation and family-friendly theatre, this ultimate pantomime FAQ answers 50 of the most common questions. Discover everything you need to know about pantomime and find out why millions of people enjoy this uniquely British Christmas tradition every year, including audiences at Imagine Theatre productions across the UK.
 
-[Read More](/behind-the-scenes/how-a-pantomime-is-made)
+[Read More](/behind-the-scenes/50-pantomime-questions-answered)
 
 ---
 
@@ -1377,6 +1377,20 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![50 Pantomime Questions Answered: The Ultimate Pantomime FAQ]()](/behind-the-scenes/50-pantomime-questions-answered)
+
+October 27, 2026
+
+[50 Pantomime Questions Answered: The Ultimate Pantomime FAQ](/behind-the-scenes/50-pantomime-questions-answered)
+
+October 27, 2026
+
+Planning your first pantomime, continuing a family Christmas tradition, or simply curious about Britain's favourite festive entertainment? From "What is a pantomime?" and "Why do audiences shout 'He's Behind You'?" to questions about costumes, characters, audience participation and family-friendly theatre, this ultimate pantomime FAQ answers 50 of the most common questions. Discover everything you need to know about pantomime and find out why millions of people enjoy this uniquely British Christmas tradition every year, including audiences at Imagine Theatre productions across the UK.
+
+[Read more →](/behind-the-scenes/50-pantomime-questions-answered)
+
+October 27, 2026
+
 [![Behind the Scenes: How a Pantomime Is Made]()](/behind-the-scenes/how-a-pantomime-is-made)
 
 October 26, 2026
@@ -1433,18 +1447,6 @@ Discover why Imagine Theatre is one of the UK's leading independent pantomime pr
 
 October 23, 2026
 
-[![Vernon Kay - Bromley.jpg]()](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
-
-October 23, 2026
-
-[IMAGINE THEATRE UNVEILS A SHOW-STOPPING 2026 PANTOMIME SEASON](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
-
-October 23, 2026
-
-[Read more →](/behind-the-scenes/imagine-theatre-unveils-a-show-stopping-2026-pantomime-season)
-
-October 23, 2026
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1461,7 +1463,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-10-27T03:31:37+00:00
+- Generated: 2026-10-28T03:22:49+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
