@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-10-29T03:23:17+00:00.
+> Generated automatically by build_llms_full.py on 2026-10-30T03:22:46+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -1301,11 +1301,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![Why Live Theatre, and Especially Pantomime, Matters in a Digital Age]()](/behind-the-scenes/why-live-theatre-matters-in-a-digital-age)
+[![Christmas Activities for Families: 25 Ideas for 2026]()](/behind-the-scenes/christmas-activities-for-families-2026)
 
-In an age of streaming, social media and on-demand entertainment, live theatre offers something technology cannot replicate: shared human experiences. Discover why pantomime continues to bring families together and why live performance remains as relevant today as ever.
+Searching for family Christmas activities in 2026? Discover 25 festive ideas for all ages, including Christmas markets, festive days out, live theatre, seasonal traditions and magical Imagine Theatre pantomimes across the UK.
 
-[Read More](/behind-the-scenes/why-live-theatre-matters-in-a-digital-age)
+[Read More](/behind-the-scenes/christmas-activities-for-families-2026)
 
 ---
 
@@ -1457,6 +1457,34 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![Christmas Activities for Families: 25 Ideas for 2026]()](/behind-the-scenes/christmas-activities-for-families-2026)
+
+October 29, 2026
+
+[Christmas Activities for Families: 25 Ideas for 2026](/behind-the-scenes/christmas-activities-for-families-2026)
+
+October 29, 2026
+
+Searching for family Christmas activities in 2026? Discover 25 festive ideas for all ages, including Christmas markets, festive days out, live theatre, seasonal traditions and magical Imagine Theatre pantomimes across the UK.
+
+[Read more →](/behind-the-scenes/christmas-activities-for-families-2026)
+
+October 29, 2026
+
+[![Pantomime Near Me: Find a Family Christmas Show Near You in 2026]()](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+
+October 29, 2026
+
+[Pantomime Near Me: Find a Family Christmas Show Near You in 2026](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+
+October 29, 2026
+
+\*\*Looking for a pantomime near you this Christmas? Discover 21 Imagine Theatre pantomimes across England, Scotland and Wales and find your nearest family Christmas show,
+
+[Read more →](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+
+October 29, 2026
+
 [![Why Live Theatre, and Especially Pantomime, Matters in a Digital Age]()](/behind-the-scenes/why-live-theatre-matters-in-a-digital-age)
 
 October 28, 2026
@@ -1499,34 +1527,6 @@ Planning your first pantomime, continuing a family Christmas tradition, or simpl
 
 October 27, 2026
 
-[![Behind the Scenes: How a Pantomime Is Made]()](/behind-the-scenes/how-a-pantomime-is-made)
-
-October 26, 2026
-
-[Behind the Scenes: How a Pantomime Is Made](/behind-the-scenes/how-a-pantomime-is-made)
-
-October 26, 2026
-
-Ever wondered how a pantomime is made? Discover the journey from script to stage as the team behind Imagine Theatre creates the sets, costumes, music, comedy and magic that bring Britain's favourite Christmas theatre tradition to life.
-
-[Read more →](/behind-the-scenes/how-a-pantomime-is-made)
-
-October 26, 2026
-
-[![Beyond the Stage: How Imagine Theatre Makes Pantomime Accessible, Sustainable and Educational ]()](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
-
-October 23, 2026
-
-[Beyond the Stage: How Imagine Theatre Makes Pantomime Accessible, Sustainable and Educational](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
-
-October 23, 2026
-
-Great pantomime is about more than laughter, sparkle and festive family fun. Discover how Imagine Theatre is helping to make theatre more accessible through inclusive performances, leading the way in sustainable pantomime production through its circular reuse model, and inspiring future generations through the educational benefits of live theatre. From accessibility and audience development to carbon-neutral operations and community impact, explore how modern pantomime can entertain, engage and make a positive difference both on and off the stage.
-
-[Read more →](/behind-the-scenes/accessibility-sustainability-education-in-pantomime)
-
-October 23, 2026
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1543,7 +1543,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-10-29T03:23:23+00:00
+- Generated: 2026-10-30T03:22:54+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
