@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-10-30T03:22:46+00:00.
+> Generated automatically by build_llms_full.py on 2026-10-31T03:18:15+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -1301,11 +1301,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![Christmas Activities for Families: 25 Ideas for 2026]()](/behind-the-scenes/christmas-activities-for-families-2026)
+[![The Best Family Christmas Shows in the UK for 2026]()](/behind-the-scenes/best-family-christmas-shows-uk-2026)
 
-Searching for family Christmas activities in 2026? Discover 25 festive ideas for all ages, including Christmas markets, festive days out, live theatre, seasonal traditions and magical Imagine Theatre pantomimes across the UK.
+Looking for the perfect family Christmas show in 2026? Discover the UK's best festive pantomimes, from Cinderella and Aladdin to Beauty and the Beast, and find an Imagine Theatre production near you.
 
-[Read More](/behind-the-scenes/christmas-activities-for-families-2026)
+[Read More](/behind-the-scenes/best-family-christmas-shows-uk-2026)
 
 ---
 
@@ -1457,6 +1457,34 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![The Best Family Christmas Shows in the UK for 2026]()](/behind-the-scenes/best-family-christmas-shows-uk-2026)
+
+October 30, 2026
+
+[The Best Family Christmas Shows in the UK for 2026](/behind-the-scenes/best-family-christmas-shows-uk-2026)
+
+October 30, 2026
+
+Looking for the perfect family Christmas show in 2026? Discover the UK's best festive pantomimes, from Cinderella and Aladdin to Beauty and the Beast, and find an Imagine Theatre production near you.
+
+[Read more →](/behind-the-scenes/best-family-christmas-shows-uk-2026)
+
+October 30, 2026
+
+[![Give Memories This Christmas: Why Pantomime Tickets Make a Brilliant Family Gift]()](/behind-the-scenes/pantomime-tickets-family-christmas-gift)
+
+October 30, 2026
+
+[Give Memories This Christmas: Why Pantomime Tickets Make a Brilliant Family Gift](/behind-the-scenes/pantomime-tickets-family-christmas-gift)
+
+October 30, 2026
+
+Looking for a Christmas gift that's more than another present? Discover why pantomime tickets make a brilliant family experience, bringing children, parents and grandparents together for laughter, live theatre and magical festive memories.
+
+[Read more →](/behind-the-scenes/pantomime-tickets-family-christmas-gift)
+
+October 30, 2026
+
 [![Christmas Activities for Families: 25 Ideas for 2026]()](/behind-the-scenes/christmas-activities-for-families-2026)
 
 October 29, 2026
@@ -1499,34 +1527,6 @@ In an age of streaming, social media and on-demand entertainment, live theatre o
 
 October 28, 2026
 
-[![The Family Guide to Choosing a Christmas Pantomime in 2026]()](/behind-the-scenes/family-guide-choosing-christmas-pantomime)
-
-October 28, 2026
-
-[The Family Guide to Choosing a Christmas Pantomime in 2026](/behind-the-scenes/family-guide-choosing-christmas-pantomime)
-
-October 28, 2026
-
-Planning a family pantomime this Christmas? Discover the best age for a first panto, how to choose performance times and seats, accessible performance options and what families can expect from an award-winning Imagine Theatre production.
-
-[Read more →](/behind-the-scenes/family-guide-choosing-christmas-pantomime)
-
-October 28, 2026
-
-[![50 Pantomime Questions Answered: The Ultimate Pantomime FAQ]()](/behind-the-scenes/50-pantomime-questions-answered)
-
-October 27, 2026
-
-[50 Pantomime Questions Answered: The Ultimate Pantomime FAQ](/behind-the-scenes/50-pantomime-questions-answered)
-
-October 27, 2026
-
-Planning your first pantomime, continuing a family Christmas tradition, or simply curious about Britain's favourite festive entertainment? From "What is a pantomime?" and "Why do audiences shout 'He's Behind You'?" to questions about costumes, characters, audience participation and family-friendly theatre, this ultimate pantomime FAQ answers 50 of the most common questions. Discover everything you need to know about pantomime and find out why millions of people enjoy this uniquely British Christmas tradition every year, including audiences at Imagine Theatre productions across the UK.
-
-[Read more →](/behind-the-scenes/50-pantomime-questions-answered)
-
-October 27, 2026
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1543,7 +1543,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-10-30T03:22:54+00:00
+- Generated: 2026-10-31T03:18:21+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
