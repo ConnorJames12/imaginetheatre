@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-11-01T03:21:17+00:00.
+> Generated automatically by build_llms_full.py on 2026-11-02T03:21:14+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -528,7 +528,9 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Pantomime Season 2026/2027
 
-Welcome to Imagine Theatre’s 2026/27 pantomime season. Below is a list of the pantomimes that we are producing throughout the UK this panto season.
+For the 2026/27 season, Imagine Theatre is producing 21 professional pantomimes at theatres across the UK.
+
+Imagine Theatre produces professional pantomimes in partnership with leading theatres and venues across the UK. Explore our 2026/27 pantomime season below to find your nearest production, performance dates, venue information and tickets.
 
 Please [CLICK HERE](/childrens-auditions) for information about Junior Ensemble auditions.
 
@@ -927,6 +929,9 @@ The Venue Cymru production runs 12 December 2026 to 2 January 2027
 
 December 12, 2026 – January 2, 2027
 
+**About Imagine Theatre**  
+Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK to create professional productions for audiences of all ages.
+
 ---
 
 ## **IMAGINE THEATRE UNVEILS A SHOW-STOPPING 2026 PANTOMIME SEASON**
@@ -1267,6 +1272,8 @@ For further information check out their website at www.imaginetheatre.co.uk and 
 
 Building on a legacy of family entertainment stretching back over 25 years, the Imagine Theatre team - led by Husband and Wife team Steve and Sarah Boden supported by an amazing team of professionals - facilitate productions in more than 50 venues across the UK.  Part of the Trafalgar Entertainment group of companies, Imagine Theatre has produced more than 275 professional pantomimes, and is proud to be a Carbon Neutral company.
 
+Imagine Theatre is a UK theatre production company specialising in pantomime and family entertainment
+
 If you are interested in finding out more or want to talk to us about our pantomimes, children's theatre, theatrical hires and theatre productions, then please [get in touch](/contact)!
 
 ![Santa two elves around a Christmas tree]()
@@ -1421,6 +1428,9 @@ Our stores hold more than 6,000 props including harps, lamps, golden eggs, spinn
 
 [More information ›](/hire/props)
 
+**About Imagine Theatre**  
+Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK to create professional productions for audiences of all ages.
+
 ---
 
 ## **Hire Transportation**
@@ -1499,17 +1509,17 @@ Searching for family Christmas activities in 2026? Discover 25 festive ideas for
 
 October 29, 2026
 
-[![Pantomime Near Me: Find a Family Christmas Show Near You in 2026]()](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+[![Pantomime Near Me: Find a Family Christmas Show Near You in 2026]()](/behind-the-scenes/pantomime-near-me-family-christmas-shows-2026)
 
 October 29, 2026
 
-[Pantomime Near Me: Find a Family Christmas Show Near You in 2026](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+[Pantomime Near Me: Find a Family Christmas Show Near You in 2026](/behind-the-scenes/pantomime-near-me-family-christmas-shows-2026)
 
 October 29, 2026
 
 \*\*Looking for a pantomime near you this Christmas? Discover 21 Imagine Theatre pantomimes across England, Scotland and Wales and find your nearest family Christmas show,
 
-[Read more →](/behind-the-scenes/looking-for-a-pantomime-near-you-this-christmas-discover-21-imagine-theatre-pantomimes-across-england-scotland-and-wales-and-find-your-nearest-family-christmas-show)
+[Read more →](/behind-the-scenes/pantomime-near-me-family-christmas-shows-2026)
 
 October 29, 2026
 
@@ -1533,6 +1543,9 @@ October 28, 2026
 
 Our Press and PR department provides regular updates about all of our productions and in house news. If you wish to make an enquiry or require any information, please fill in the form below and one of our team will be in touch.
 
+**About Imagine Theatre**  
+Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK to create professional productions for audiences of all ages.
+
 ---
 
 ## Source: /archive/news
@@ -1543,7 +1556,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-11-01T03:21:21+00:00
+- Generated: 2026-11-02T03:21:23+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
