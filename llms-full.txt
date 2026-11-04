@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-11-03T03:19:18+00:00.
+> Generated automatically by build_llms_full.py on 2026-11-04T03:18:41+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -528,9 +528,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Pantomime Season 2026/2027
 
-For the 2026/27 season, Imagine Theatre is producing 21 professional pantomimes at theatres across the UK.
-
-Imagine Theatre produces professional pantomimes in partnership with leading theatres and venues across the UK. Explore our 2026/27 pantomime season below to find your nearest production, performance dates, venue information and tickets.
+Imagine Theatre produces professional pantomimes in partnership with leading theatres and venues across the UK. Explore the 21 productions in our our 2026/27 pantomime season below to find your nearest production, performance dates, venue information and tickets.
 
 Please [CLICK HERE](/childrens-auditions) for information about Junior Ensemble auditions.
 
@@ -928,6 +926,10 @@ The Venue Cymru production runs 12 December 2026 to 2 January 2027
 [Read more →](/pantomimes/2026-sleeping-beauty-llandudno)
 
 December 12, 2026 – January 2, 2027
+
+![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/bc3a455a-f58d-4403-833c-56ec8b94aa3c/Imagine+Pantos+Map+2026_7.jpg)
+
+Imagine Theatre 2026/27 pantomime season locations
 
 **About Imagine Theatre**  
 Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK to create professional productions for audiences of all ages.
@@ -1556,7 +1558,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-11-03T03:19:24+00:00
+- Generated: 2026-11-04T03:18:50+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
