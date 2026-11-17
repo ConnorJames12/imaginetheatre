@@ -4,7 +4,7 @@
 
 > This is /llms-full.txt — concatenated body content of every page listed in /llms.txt, packaged as a single markdown file so an AI can ingest the whole site in one fetch without crawling individual pages.
 
-> Generated automatically by build_llms_full.py on 2026-11-16T03:23:52+00:00.
+> Generated automatically by build_llms_full.py on 2026-11-17T03:20:11+00:00.
 
 > Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 
@@ -528,7 +528,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Pantomime Season 2026/2027
 
-Imagine Theatre produces professional pantomimes in partnership with leading theatres and venues across the UK. Explore the 21 productions in our our 2026/27 pantomime season below to find your nearest production, performance dates, venue information and tickets.
+Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK. Explore the 21 productions in our our 2026/27 pantomime season below to find your nearest production, performance dates, venue information and tickets.
 
 Please [CLICK HERE](/childrens-auditions) for information about Junior Ensemble auditions.
 
@@ -932,7 +932,9 @@ December 12, 2026 – January 2, 2027
 Imagine Theatre 2026/27 pantomime season locations
 
 **About Imagine Theatre**  
-Imagine Theatre is a UK producer of pantomime and family entertainment. We work in partnership with theatres and venues across the UK to create professional productions for audiences of all ages.
+Imagine Theatre is one of the UK's largest producers of professional pantomime and family entertainment. Working in long-term partnership with theatres and venues across the UK, we create locally relevant productions backed by the scale, infrastructure and specialist expertise of a national producer.
+
+More than 25 years of pantomime experience, extensive scenery, costume and production resources, award-winning creative teams and growing audience and sales insight allow us to deliver high-quality productions while retaining the individuality of each theatre and its audience.
 
 ---
 
@@ -1268,13 +1270,15 @@ For further information check out their website at www.imaginetheatre.co.uk and 
 
 ![](https://images.squarespace-cdn.com/content/v1/60c381faed740141636ce714/9d8d50e9-f71d-499c-a72c-028e84455cfd/About+Us+Website+Header+Test+2026.jpg)
 
-### **IMAGINE THEATRE ARE A Producer of pantomime and children's theatre offering spectacular entertainment for the whole family across the UK.**
+### **Imagine Theatre is one of the UK's leading theatre production companies specialising in professional pantomime and family entertainment.**
 
-***Providing a range of services from the hire of individual costumes, pantomime scripts, special effects or theatrical sets through to the staging of entire productions!***
+We create and produce award-winning shows in partnership with theatres and venue operators across England, Scotland and Wales.
 
-Building on a legacy of family entertainment stretching back over 25 years, the Imagine Theatre team - led by Husband and Wife team Steve and Sarah Boden supported by an amazing team of professionals - facilitate productions in more than 50 venues across the UK.  Part of the Trafalgar Entertainment group of companies, Imagine Theatre has produced more than 275 professional pantomimes, and is proud to be a Carbon Neutral company.
+Building on a legacy of family entertainment stretching back over 25 years, Imagine Theatre combines the scale, infrastructure and expertise of a national producer with the flexibility, local understanding and long-term relationships of a specialist regional partner.
 
-Imagine Theatre is a UK theatre production company specialising in pantomime and family entertainment
+Led by husband-and-wife team Steve and Sarah Boden, supported by an experienced team of theatre professionals, Imagine Theatre has produced more than 275 professional pantomimes and works with venues across the UK. The company is part of Trafalgar Entertainment.
+
+At the heart of our approach are long-term venue partnerships, strong storytelling and productions created for their local audiences. We combine national-scale production expertise with an understanding that every theatre, audience and community is different.
 
 If you are interested in finding out more or want to talk to us about our pantomimes, children's theatre, theatrical hires and theatre productions, then please [get in touch](/contact)!
 
@@ -1310,11 +1314,11 @@ Our parent company is Trafalgar Entertainment, a fast-growing live entertainment
 
 ## Source: /behind-the-scenes
 
-[![From Motor Cars to Pantomime: Sam Newsome and Coventry's Pantomime Heritage]()](/behind-the-scenes/blog/coventry-pantomime-history-sam-newsome)
+[![Who Makes a Pantomime? Meet the People Behind the Magic]()](/behind-the-scenes/who-makes-a-pantomime)
 
-Long before Imagine Theatre was producing pantomimes from its Coventry home, another Coventry entrepreneur was making his mark on British pantomime. Discover the fascinating story of Sam Newsome and a city that has helped create popular theatre for generations.
+Who actually makes a pantomime? Meet the performers, creatives, freelancers, technicians, backstage professionals and venue teams whose skills bring the magic to life.
 
-[Read More](/behind-the-scenes/blog/coventry-pantomime-history-sam-newsome)
+[Read More](/behind-the-scenes/who-makes-a-pantomime)
 
 ---
 
@@ -1469,6 +1473,48 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 ## Latest Blogs
 
+[![Who Makes a Pantomime? Meet the People Behind the Magic]()](/behind-the-scenes/who-makes-a-pantomime)
+
+November 16, 2026
+
+[Who Makes a Pantomime? Meet the People Behind the Magic](/behind-the-scenes/who-makes-a-pantomime)
+
+November 16, 2026
+
+Who actually makes a pantomime? Meet the performers, creatives, freelancers, technicians, backstage professionals and venue teams whose skills bring the magic to life.
+
+[Read more →](/behind-the-scenes/who-makes-a-pantomime)
+
+November 16, 2026
+
+[![What We’ve Learned from the Just Imagine Podcast]()](/behind-the-scenes/what-we-have-learned-from-the-just-imagine-podcast)
+
+November 16, 2026
+
+[What We’ve Learned from the Just Imagine Podcast](/behind-the-scenes/what-we-have-learned-from-the-just-imagine-podcast)
+
+November 16, 2026
+
+Go behind the curtain with the Just Imagine Podcast and discover what more than 100 conversations with performers, creatives and theatre professionals have taught us about the people, skills, traditions and stories behind British pantomime.
+
+[Read more →](/behind-the-scenes/what-we-have-learned-from-the-just-imagine-podcast)
+
+November 16, 2026
+
+[![How Imagine Theatre Creates Pantomime at Scale Without Losing the Local Magicc]()](/behind-the-scenes/how-we-produce-pantomime)
+
+November 16, 2026
+
+[How Imagine Theatre Creates Pantomime at Scale Without Losing the Local Magicc](/behind-the-scenes/how-we-produce-pantomime)
+
+November 16, 2026
+
+How do you create professional pantomime at scale while keeping every production local? Go behind the scenes at Imagine Theatre to discover the people, partnerships, experience and resources that bring our pantomimes to life.
+
+[Read more →](/behind-the-scenes/how-we-produce-pantomime)
+
+November 16, 2026
+
 [![From Motor Cars to Pantomime: Sam Newsome and Coventry's Pantomime Heritage]()](/behind-the-scenes/blog/coventry-pantomime-history-sam-newsome)
 
 November 5, 2026
@@ -1497,50 +1543,6 @@ We’re cheering on Swansea panto star Owain Wyn Evans as he takes on an incredi
 
 November 5, 2026
 
-[![Su Pollard: 50 Years of Showbusiness, 40 Pantomimes and a Lifetime of Laughter]()](/behind-the-scenes/su-pollard-50-years-of-showbusiness-40-pantomimes-and-a-lifetime-of-laughter)
-
-November 5, 2026
-
-[Su Pollard: 50 Years of Showbusiness, 40 Pantomimes and a Lifetime of Laughter](/behind-the-scenes/su-pollard-50-years-of-showbusiness-40-pantomimes-and-a-lifetime-of-laughter)
-
-November 5, 2026
-
-Few entertainers have brought as much joy, laughter and personality to British audiences as [Su Pollard](https://en.wikipedia.org/wiki/Su_Pollard). With a career spanning more than five decades, countless television appearances and more than 40 pantomimes to her name, Su has become one of Britain's most recognisable and much-loved performers.
-
-In the latest episode of the [**Just Imagine Podcast**](https://www.imaginetheatre.co.uk/just-imagine-podcast), host Martin Ballard sits down with the legendary actress, singer and comedian for a wonderfully entertaining conversation about her extraordinary journey through showbusiness, her love of pantomime and the experiences that have shaped her remarkable career.
-
-[Read more →](/behind-the-scenes/su-pollard-50-years-of-showbusiness-40-pantomimes-and-a-lifetime-of-laughter)
-
-November 5, 2026
-
-[![Growing Imagine: From a Leap of Faith to One of the UK's Largest Pantomime Producers]()](/behind-the-scenes/growing-imagine-theatre-history)
-
-November 4, 2026
-
-[Growing Imagine: From a Leap of Faith to One of the UK's Largest Pantomime Producers](/behind-the-scenes/growing-imagine-theatre-history)
-
-November 4, 2026
-
-From a leap of faith in 2006 to producing more than 275 professional pantomimes, discover how Imagine Theatre grew through new venues, an expanding team, COVID, recovery and joining Trafalgar Entertainment.
-
-[Read more →](/behind-the-scenes/growing-imagine-theatre-history)
-
-November 4, 2026
-
-[![What Does a Pantomime Production Company Do All Year?]()](/behind-the-scenes/what-does-a-pantomime-production-company-do-all-year)
-
-November 4, 2026
-
-[What Does a Pantomime Production Company Do All Year?](/behind-the-scenes/what-does-a-pantomime-production-company-do-all-year)
-
-November 4, 2026
-
-What does a pantomime company do when it isn't Christmas? Go behind the scenes at Imagine Theatre and follow a year of casting, scripts, scenery, costumes, photoshoots, rehearsals, logistics and performances.
-
-[Read more →](/behind-the-scenes/what-does-a-pantomime-production-company-do-all-year)
-
-November 4, 2026
-
 [**See all blogs >**](/behind-the-scenes)
 
 ## Press Office
@@ -1560,7 +1562,7 @@ _Fetch failed: 404 Client Error: Not Found for url: https://www.imaginetheatre.c
 
 # Generation metadata
 
-- Generated: 2026-11-16T03:24:01+00:00
+- Generated: 2026-11-17T03:20:19+00:00
 - Source map: https://connorjames12.github.io/imaginetheatre/llms.txt
 - Pages requested: 20
 - Successful fetches: 10
